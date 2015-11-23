@@ -67,7 +67,7 @@ body{
 
 h1,h2,h3,h4{     
     font-family: 'Open Sans';
-    font-weight: 600;
+    font-weight: 700;
     font-style:normal;
     text-transform:uppercase;
     hyphens: none !important;
@@ -104,11 +104,11 @@ h3{
 
 b,strong{
     font-family: 'Open Sans';
-    font-weight: 600;}
+    font-weight: 700;}
 
 figcaption{
     font-family: 'Open Sans';
-    font-weight: 600;
+    font-weight: 700;
     font-size:0.8em;
 }
 
@@ -190,7 +190,7 @@ a:hover { color: #ff442c;
 
 div.streams{
     font-family: 'Open Sans';
-    font-weight: 600;
+    font-weight: 700;
     width: 50%;
     min-width: 10em;
     margin-left: auto;
@@ -301,7 +301,7 @@ th, td {
 table .header {
     color: #ff442c;
     font-family: 'Open Sans';
-    font-weight: 600;}
+    font-weight: 700;}
 
 table+p, figure+p {
     text-align: right;

@@ -62,7 +62,7 @@ The Culture of Power, the Power of Culture	</a><br/>
 # The Gray Zones of Creativity and Capital: Introduction#
 ### Šefik Tatlić and Gordana Nikolić###
 
-The initial idea that led to the preparation of this publication was not
+The <a href="http://google.com">initial</a> idea that led to the preparation of this publication was not
 a reflection of the editors’ wish to merely add another publication
 focusing on a critique of the relationship between creative industries
 and capital to the huge corpus of similar publications taking a critical
