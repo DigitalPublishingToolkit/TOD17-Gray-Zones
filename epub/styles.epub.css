@@ -137,7 +137,7 @@ ul, ol, dl {
     text-align: left;
 }
 
-em {
+p.italic{
     font-family: 'Open Sans';
     font-weight: 300;
     font-style: italic;
