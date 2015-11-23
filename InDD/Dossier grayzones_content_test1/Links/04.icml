@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="7.5(142)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="7.5" Self="d">
+	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="96 81 152" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal"/>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid"/>
+	<FontFamily Self="di38" Name="Minion Pro">
+		<Font Self="di38FontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di79" Name="Myriad Pro">
+		<Font Self="di79FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di7d" Name="Kozuka Mincho Pro">
+		<Font Self="di7dFontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="dib6" Name="Lato">
+		<Font Self="dib6FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Installed" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Installed" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Installed" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+	</FontFamily>
+	<FontFamily Self="dib9" Name="Helvetica Neue">
+		<Font Self="dib9FontnHelvetica Neue Condensed Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Bold" PostScriptName="HelveticaNeue-CondensedBold" Status="Installed" FontStyleName="Condensed Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Bold" FullNameNative="Helvetica Neue Condensed Bold" FontStyleNameNative="Condensed Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Condensed Black" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Black" PostScriptName="HelveticaNeue-CondensedBlack" Status="Installed" FontStyleName="Condensed Black" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Black" FullNameNative="Helvetica Neue Condensed Black" FontStyleNameNative="Condensed Black" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue UltraLight" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="UltraLight" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight" FullNameNative="Helvetica Neue UltraLight" FontStyleNameNative="UltraLight" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue UltraLight Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight Italic" PostScriptName="HelveticaNeue-UltraLightItalic" Status="Installed" FontStyleName="UltraLight Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight Italic" FullNameNative="Helvetica Neue UltraLight Italic" FontStyleNameNative="UltraLight Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Thin" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin" FullNameNative="Helvetica Neue Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Thin Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin Italic" FullNameNative="Helvetica Neue Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Light" FontFamily="Helvetica Neue" Name="Helvetica Neue Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light" FullNameNative="Helvetica Neue Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Light Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light Italic" FullNameNative="Helvetica Neue Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Regular" FontFamily="Helvetica Neue" Name="Helvetica Neue Regular" PostScriptName="HelveticaNeue" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue" FullNameNative="Helvetica Neue" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Italic" FullNameNative="Helvetica Neue Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Medium" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium" FullNameNative="Helvetica Neue Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Medium Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium Italic" FullNameNative="Helvetica Neue Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib9FontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+	</FontFamily>
+	<FontFamily Self="di3520" Name="HK Grotesk">
+		<Font Self="di3520FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 "/>
+		<Font Self="di3520FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 "/>
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="u7c" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7e" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7f" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u80" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u81" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u82" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u65">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" KeyboardShortcut="0 0" Name="Italic" FontStyle="Regular" VerticalScale="101" Skew="12">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" Name="$ID/[No character style]"/>
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false"/>
+	<RootParagraphStyleGroup Self="u64">
+		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">17</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps" SpaceBefore="5.669291338582678" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">12</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" PointSize="9" LeftIndent="10" AppliedLanguage="$ID/English: USA" SpaceAfter="2.834645669291339" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Reference List (title)" Name="Reference List (title)" Imported="false" NextStyle="ParagraphStyle/Reference List (title)" KeyboardShortcut="0 0" SpaceAfter="5.669291338582678">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Header2</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Reference List" Name="Reference List" Imported="false" NextStyle="ParagraphStyle/Reference List" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePosition" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226"/>
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0"/>
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<RootObjectStyleGroup Self="u75">
+		<ObjectStyle Self="ObjectStyle/$ID/[Normal Graphics Frame]" Name="$ID/[Normal Graphics Frame]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" ApplyNextParagraphStyle="false" EnableFill="true" EnableStroke="true" EnableParagraphStyle="false" EnableTextFrameGeneralOptions="false" EnableTextFrameBaselineOptions="false" EnableStoryOptions="false" EnableTextWrapAndOthers="false" EnableAnchoredObjectOptions="false" CornerRadius="12" FillColor="Swatch/None" FillTint="-1" StrokeWeight="1" MiterLimit="4" EndCap="ButtEndCap" EndJoin="MiterEndJoin" StrokeType="StrokeStyle/$ID/Solid" LeftLineEnd="None" RightLineEnd="None" StrokeColor="Color/Black" StrokeTint="-1" OverprintStroke="false" GapColor="Swatch/None" GapTint="-1" StrokeAlignment="CenterAlignment" Nonprinting="false" GradientFillAngle="0" GradientStrokeAngle="0" AppliedNamedGrid="n" KeyboardShortcut="0 0" TopLeftCornerOption="None" TopRightCornerOption="None" BottomLeftCornerOption="None" BottomRightCornerOption="None" TopLeftCornerRadius="12" TopRightCornerRadius="12" BottomLeftCornerRadius="12" BottomRightCornerRadius="12" EnableFrameFittingOptions="false" CornerOption="None" EnableStrokeAndCornerOptions="true">
+			<Properties>
+				<BasedOn type="string">$ID/[None]</BasedOn>
+			</Properties>
+			<TextFramePreference TextColumnCount="1" TextColumnGutter="12" TextColumnFixedWidth="144" UseFixedColumnWidth="false" FirstBaselineOffset="AscentOffset" MinimumFirstBaselineOffset="0" VerticalJustification="TopAlign" VerticalThreshold="0" IgnoreWrap="false" VerticalBalanceColumns="false">
+				<Properties>
+					<InsetSpacing type="list">
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+					</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<BaselineFrameGridOption UseCustomBaselineFrameGrid="false" StartingOffsetForBaselineFrameGrid="0" BaselineFrameGridRelativeOption="TopOfInset" BaselineFrameGridIncrement="12">
+				<Properties>
+					<BaselineFrameGridColor type="enumeration">LightBlue</BaselineFrameGridColor>
+				</Properties>
+			</BaselineFrameGridOption>
+			<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="BottomAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0"/>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0"/>
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/"/>
+			</TextWrapPreference>
+			<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="Unknown" StoryOrientation="Unknown" StoryDirection="UnknownDirection"/>
+			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor"/>
+			<ObjectStyleObjectEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true"/>
+			<ObjectStyleStrokeEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true"/>
+			<ObjectStyleFillEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true"/>
+			<ObjectStyleContentEffectsCategorySettings EnableTransparency="true" EnableDropShadow="true" EnableFeather="true" EnableInnerShadow="true" EnableOuterGlow="true" EnableInnerGlow="true" EnableBevelEmboss="true" EnableSatin="true" EnableDirectionalFeather="true" EnableGradientFeather="true"/>
+		</ObjectStyle>
+		<ObjectStyle Self="ObjectStyle/$ID/[None]" Name="$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" CornerRadius="12" FillColor="Swatch/None" FillTint="-1" StrokeWeight="0" MiterLimit="4" EndCap="ButtEndCap" EndJoin="MiterEndJoin" StrokeType="StrokeStyle/$ID/Solid" LeftLineEnd="None" RightLineEnd="None" StrokeColor="Swatch/None" StrokeTint="-1" GapColor="Swatch/None" GapTint="-1" StrokeAlignment="CenterAlignment" Nonprinting="false" GradientFillAngle="0" GradientStrokeAngle="0" AppliedNamedGrid="n" TopLeftCornerOption="None" TopRightCornerOption="None" BottomLeftCornerOption="None" BottomRightCornerOption="None" TopLeftCornerRadius="12" TopRightCornerRadius="12" BottomLeftCornerRadius="12" BottomRightCornerRadius="12" CornerOption="None">
+			<TextFramePreference TextColumnCount="1" TextColumnGutter="12" TextColumnFixedWidth="144" UseFixedColumnWidth="false" FirstBaselineOffset="AscentOffset" MinimumFirstBaselineOffset="0" VerticalJustification="TopAlign" VerticalThreshold="0" IgnoreWrap="false" VerticalBalanceColumns="false">
+				<Properties>
+					<InsetSpacing type="list">
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+						<ListItem type="unit">0</ListItem>
+					</InsetSpacing>
+				</Properties>
+			</TextFramePreference>
+			<BaselineFrameGridOption UseCustomBaselineFrameGrid="false" StartingOffsetForBaselineFrameGrid="0" BaselineFrameGridRelativeOption="TopOfInset" BaselineFrameGridIncrement="12">
+				<Properties>
+					<BaselineFrameGridColor type="enumeration">LightBlue</BaselineFrameGridColor>
+				</Properties>
+			</BaselineFrameGridOption>
+			<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="BottomAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0"/>
+			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+				<Properties>
+					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0"/>
+				</Properties>
+				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/"/>
+			</TextWrapPreference>
+			<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor"/>
+		</ObjectStyle>
+	</RootObjectStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<TransparencyDefaultContainerObject>
+		<TransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</TransparencySetting>
+		<StrokeTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</StrokeTransparencySetting>
+		<FillTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</FillTransparencySetting>
+		<ContentTransparencySetting>
+			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false"/>
+			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false"/>
+			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0"/>
+			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0"/>
+			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7"/>
+			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced"/>
+			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75"/>
+			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false"/>
+			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0"/>
+			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0"/>
+		</ContentTransparencySetting>
+	</TransparencyDefaultContainerObject>
+	<CrossReferenceFormat Self="u18e" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u18eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u18eBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u18eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u18eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u18f" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u18fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u18fBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u18fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u190" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u190BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u190BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u190BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u190BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u191" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u191BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u191BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u191BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u192" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u192BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u192BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u192BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u193" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u193BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u194" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u194BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u194BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u194BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u194BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u195" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u195BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u195BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u195BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u196" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u196BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u196BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<Story Self="u7fc" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The Agency of Art in the Unconscious</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Marc James Léger</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>How can we explain the gray zone, the minimum distance between creativity and capitalist demand? How can we understand creative autonomy and resistance in the context of renewed expectations for art to have a direct social and political utility? What can psychoanalysis contribute to art criticism as it relates to the field of politicized visual art, now more commonly referred to as socially engaged art? What does the notion of the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>avant-garde</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> mean for cultural production in a world of networked connectivity, participatory ideology and creative industry dispossession? According to Slavoj Žižek, when art production is increasingly subjected to commodification, and when commodities are increasingly aestheticized, artworks are no longer able to sustain the lack in the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, understood here as the agency of belief in art’s social and cultural significance.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Slavoj Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Fragile Absolute, or, Why Is the Christian Legacy Worth Fighting For?</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, London: Verso, 2000, pp. 31-32.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> One symptom of this phenomenon is the view that art today has collapsed directly into political economy. In the words of the editors of </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>e-flux</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> journal, ‘contemporary art </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>is</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> neoliberalism in its most purified form’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Julieta Aranda, Brian Kuan Wood and Anton Vidokle (eds), ‘Editorial’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>e-flux journal</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 21 (2010), http://www.e-flux.com/journal/editorial-18/.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The truth of this assertion is that artworks are particularly apt as signifiers of castration. As creativity marks ever more aspects of daily life, almost any kind of work not only can, but in a kind of frenetic hysteria, must be elevated to the place of Art.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	See Gerald Raunig, Gene Ray and Ulf Wuggenig (eds), </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Critique of Creativity: Precarity, Subjectivity and Resistance in the ‘Creative Industries’</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, London: MayFly Books, 2011.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> While this may seem a standard postmodern argument for the breakdown of the distinction between high art and mass culture, postmodernism tends nevertheless to leave belief in the aesthetic intact, proliferating through the fields of discourse it comes into contact with. In the following, I argue against postmodern relativism, however, and wish to consider instead, to paraphrase Žižek in his thinking on Christianity, ‘the perverse core’ of avant-garde art production.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Art for Imbeciles</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>In an essay on what he calls ‘enclave theory’, John Roberts made the somewhat startling assertion that many of the most progressive art theories of recent years (those attributed to Nicolas Bourriaud, Gregory Sholette, Grant Kester, Stephen Wright, and even theorists like Jean-Luc Nancy, Alain Badiou, Slavoj Žižek, Bruno Bosteels, Felix Guattari, Toni Negri, and Michael Hardt) represent the ‘invariant core of a communist programme’ that is ‘largely divorced from the past’, in particular, from its Stalinist Communist party organizations, and is committed rather to ‘culturally aestheticized […] autonomous forms of productive, intellectual and creative community’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	John Roberts, ‘Art, “Enclave Theory” and the Communist Imaginary’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Third Text</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 23:4 (2009): 353, 358.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> What is surprising in this claim is the idea that these are invariant forms, and not significantly different. Roberts asks us to consider what all of these theorists’ perspectives on radical culture have in common rather than what distinguishes them. This gesture might not be such a bad way to understand the so-called ‘crisis’ of art and art criticism in a world of cultural corporatization and neoliberal engineering of creative capital. Whatever contemporary art’s failings in terms of pursuing revolutionary class struggle, it represents, according to Roberts, a kind of leftist bloc against what Sholette terms enterprise culture. Perhaps one of the most acerbic depictions of the art world as a rigged system of economic and social exploitation is Bruce Barber’s 2008 drawing titled </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Artworld Ponzi Scheme</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, which shows a pyramid comprized of payers, prayers, and players, all of them trapped within a hierarchically inegalitarian system. The intrigue in this drawing, especially as it comes after the biggest financial debacle since the 1970s, is that the currency of art is premised on false claims, or even ‘toxic assets’. </Content>
+				<Rectangle Self="u3b69" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 267.7086700797082 -173.5905511810979">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="-267.7086700797082 -58.39724864356504" LeftDirection="-267.7086700797082 -58.39724864356504" RightDirection="-267.7086700797082 -58.39724864356504"/>
+									<PathPointType Anchor="-267.7086700797082 173.5905511810979" LeftDirection="-267.7086700797082 173.5905511810979" RightDirection="-267.7086700797082 173.5905511810979"/>
+									<PathPointType Anchor="75 173.5905511810979" LeftDirection="75 173.5905511810979" RightDirection="75 173.5905511810979"/>
+									<PathPointType Anchor="75 -58.39724864356504" LeftDirection="75 -58.39724864356504" RightDirection="75 -58.39724864356504"/>
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="-34.979925808909684" AnchorSpaceAbove="0"/>
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0"/>
+						</Properties>
+						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/"/>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+					<FrameFittingOption AutoFit="false" LeftCrop="1.4528031612745167" TopCrop="-2.535433414424297" RightCrop="-7.788801667629741e-06" BottomCrop="5.383126697953685" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor"/>
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" CustomImageAlignment="false" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" SpaceUnit="CssEm" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/"/>
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/"/>
+						</Properties>
+					</ObjectExportOption>
+					<Image Self="u4094" Space="$ID/#Links_Grayscale" ActualPpi="300 300" EffectivePpi="270 270" ImageRenderingIntent="UseColorSettings" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1.112158945248123 0 0 1.112158945248123 -269.3244181112044 -55.57744369163207" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+						<Properties>
+							<Profile type="string">$ID/None</Profile>
+							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4AE0Fkb2JlAGSAAAAAAAUAAgAD/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAgICAgICAgICAgIDAwMDAwMDAwMD/8AACwgA1AE2AQERAP/E
+ANIAAAAGAgMBAAAAAAAAAAAAAAcIBgUECQMKAgEACxAAAgEDBAEDAwIDAwMCBgl1AQIDBBEFEgYh
+BxMiAAgxFEEyIxUJUUIWYSQzF1JxgRhikSVDobHwJjRyChnB0TUn4VM2gvGSokRUc0VGN0djKFVW
+VxqywtLi8mSDdJOEZaOzw9PjKThm83UqOTpISUpYWVpnaGlqdnd4eXqFhoeIiYqUlZaXmJmapKWm
+p6ipqrS1tre4ubrExcbHyMnK1NXW19jZ2uTl5ufo6er09fb3+Pn6/9oACAEBAAA/AN/j37373737
+3737373737373737373737373737373737373737373737373737373737373737373737373737
+373737373737373737373737373737372i9ndkde9hzbwp9hb42lvWfr3eWU6635DtTcWJ3BLsvf
++DpMbX5rZO6UxVXVNgd2YmizFJLU4+q8VXBHUxM6KHW609+9+9+9+9+9+9+9+9+9+9+9+9+9+9+9
++9+9+9+9+9+9+9+9+9+9+9+9+9+9+9+9l5+S3Se4O+dhYzZ23Oyst1bW4/deP3PJuDD4yhy09dFi
+8Vm6aDA1dLXlVTF1+RyED1M1NJS5SnhhaTG1mOyK0mRpCuUXwt7Xo6TYiT9qbMy8m1dz4ncOXTLb
+IE9XuGlxuxN27LqNrvkA4wEG0spl9wQbomp5cFUZJ9xQSVL5GSoaCqpkpuf+X121ubGYfDj5QZnC
+xUFPSY6nzFBtHC5vK7YxEe7+l+xK2iwVFv2HeeCyk1XuzZu7qYS1VPEn8C3RBj546mnxwjqJPb38
+typ7Z3tSb8qO2sNjMpU71673rm4Ml19ujcFRQZDrnoqp6awtXsnc2O7g2juem3JQVuZyOcoshuWp
+3VBSVr04WiLiumyKdxP8sKsp98by3xV9hdJ7eyO8aZUkm6k+Nu5eu67b89PiussbQ0+05cr8jd94
+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]]></GraphicProxy>
+							<GraphicBounds Left="0" Top="0" Right="309.6" Bottom="211.44"/>
+						</Properties>
+						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+							<Properties>
+								<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0"/>
+							</Properties>
+							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/"/>
+						</TextWrapPreference>
+						<MetadataPacketPreference>
+							<Properties>
+								<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c003 61.141987, 2011/02/22-12:03:51        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:ModifyDate>2015-11-16T15:18:45+01:00</xmp:ModifyDate>
+         <xmp:CreatorTool>ArcSoft PhotoStudio</xmp:CreatorTool>
+         <xmp:CreateDate>2015-10-08T11:42:46+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2015-11-16T15:18:45+01:00</xmp:MetadataDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/">
+         <crs:AlreadyApplied>True</crs:AlreadyApplied>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+         <photoshop:ColorMode>1</photoshop:ColorMode>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>image/jpeg</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <xmpMM:InstanceID>xmp.iid:ED7F1174072068118F62AE3B454DF366</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:ED7F1174072068118F62AE3B454DF366</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:ED7F1174072068118F62AE3B454DF366</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ED7F1174072068118F62AE3B454DF366</stEvt:instanceID>
+                  <stEvt:when>2015-11-16T15:18:45+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CS5.1 Macintosh</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+							</Properties>
+						</MetadataPacketPreference>
+						<Link Self="u4098" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/lenarobin/Documents/TRAVAIL/INC/TOD17-Gray-Zones/InDD/Dossier%20grayzones_content_test1/Links/Leger%20IMAGE.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130923978350000000 286992" LinkImportModificationTime="2015-11-19T10:10:35" LinkImportTime="2015-11-19T12:13:25" LinkResourceSize="0~46110"/>
+						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1"/>
+						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/"/>
+					</Image>
+				</Rectangle>
+				<Br/>
+				<Br/>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="7">
+				<Content>Fig. Bruce Barber, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="7">
+				<Content>Artworld Ponzi Scheme</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="7">
+				<Content>, drawing, 2008. Courtesy of the artist.</Content>
+				<Br/>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The idea that art has no socially agreed upon justifications has been addressed by anthropologist David Graeber, who wonders why contemporary theorists attending an art symposium at the Tate Museum should explain the 2008 fiasco by taking recourse to avant-garde art created between 1916 and 1922.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	David Graeber, ‘“The Sadness of Post-Workerism”, or “Art and Immaterial Labour” Conference: A Sort of Review’, 2008, http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> His point is that we are potentially once again living a revolutionary moment, but that epistemological subversion through culture and post-structuralist theory seems to satisfy only liberal academics. The return to avant-gardism, he argues, effects</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>a subtle form of conservatism</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Ligatures="false">
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>—</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Ligatures="false">
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>or, perhaps one should say conservative radicalism, if such were possible — a nostalgia for the days when it was possible to put on a tin-foil suit, shout nonsense verse, and watch staid bourgeois audiences turn into outraged lynch mobs.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>These days are gone, he argues, replaced by the immaterial labor and service economy analysis of people like Maurizio Lazzarato and Toni Negri. The art of the rich, he goes on, has more to do with the analysis of products than of social processes, floating above the mire of ordinary existence. Art today appears to contemporary political philosophers to belong to the immaterial domain, a fact that exacerbates its condition of crisis. The art world, for Graeber, is the apparatus of people who manage this crisis. Unable to define the category of art in any way that is adequate beyond its quality as something that only rich people and museums can afford to buy, the art world cannot establish its own legitimacy. Graeber then argues that the essence of politics in social life is to make people believe. Things become true if you can convince enough people to believe them. In order to play the game effectively, one must not oneself know the essence of things. He concludes from this that if the art world was to recognize itself as a form of politics, it would also need to ‘recognize itself as something both magical, and a confidence game — a kind of scam’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Graeber, ‘“The Sadness of Post-Workerism”’.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Insofar as the art world has become an appendage to financial capital, fictive capital explains fictive cultural value as well. All the players, he argues, cynics and idealists alike, draw on outmoded nineteenth-century notions of art, even those who create ‘enclaves’ where they can experiment with new forms of life.</Content>
+				<Br/>
+				<Content>Where Graeber gets at the issue is when he later argues that for all of the fictionalization that takes place across the social field, the magically created value of art is no less real. This assertion confirms the Lacanian emphasis on the reality of illusion, which contrasts to transgressions that merely try to escape the Real. In this regard, Žižek agrees with Badiou, who argues that art is a medium of truth. This also relates to the Marxist understanding of commodity fetishism, which states that even if capitalists understand that workers produce the value of their merchandize, they nevertheless continue to believe in the miracle of exchange. The famous Žižekian example, of course, is the anecdote about Niels Bohr, who when asked if he believed in the good luck derived from a horse shoe, replied he did not, but that apparently it works even if one does not believe in it. Rather than payer, player, and prayer, then, categories that Barber leaves undefined, I would like to propose the set of three subject positions that Žižek outlines at the start of </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Less Than Nothing</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>: the idiot, the moron, and the imbecile.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Slavoj Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing: Hegel and the Shadow of Dialectical Materialism</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, London: Verso, 2012, pp. 1-2.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> All three positions are premized on the Lacanian theory of the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, which stands for the heterogeneous social rules that together comprize what Lacan defines as the social symbolic. As an impersonal social agency, the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> stands in for those rules that shape the unconscious of the social subject.</Content>
+				<Br/>
+				<Content>The first of the three is the idiot, defined by Žižek as someone who is ‘too intelligent to process implicit social rules’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 1.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The idiot imagines himself beyond the influence of the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> and knows the rules (of art) all too well to be able to process them in a way beyond his hyper-intellectuality. As the first of two examples of idiots within contemporary art theory, both colleagues of mine, we have Sholette and his concept of ‘dark matter’. According to Sholette, dark matter describes the ‘shadowy social productivity’ that haunts the high art world. The great many excluded practices and failed artists who keep the world of galleries, collections, and magazines going, Sholette argues, are today threatening this pyramidal system as their dark energy becomes increasingly visible. The book </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Dark Matter</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> thus presents itself as a ‘lumpenography’ of this invisible mass of makeshift, amateur, informal, unofficial, autonomous, activist, non-institutional, and self-organized practices.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Gregory Sholette, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Dark Matter: Art and Politics in the Age of Enterprise Culture</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, London: Pluto, 2011, p. 1.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Sholette argues that art critics, art historians, arts administrators, collectors and dealers typically have little interest in creative dark matter. There is no question that the art world is made up not only of what is known about art, but involves a complex division of labor and specialized tasks that work to keep a multi-billion-dollar industry operating for the benefit of a minority of high profile artists. This system keeps the vast majority of professionally trained artists in a state of subservience and underdevelopment. The first and most general question that is asked by Sholette is what would happen if this superfluous majority went on permanent strike and gave up on the art system’s means of legitimation. Contemporary high art is thoroughly connected, he says, to Art Inc. and does not hide its profit motivations. It is only those dark practices at the margins that still hold on to this former (avant-garde) task of art to challenge commercial goals. While Sholette does appreciate the labor theory of value, he suspends the understanding that most forms of culture are non-productive and rather dependent in complex ways on profits collected elsewhere in the proletarianized global marketplace. Bourdieu’s sociology of art, in contrast, benefited from its use of the concept of social totality. The absence of the use of the concept of totality in Sholette’s book prevents him from offering a class analysis of culture that would go beyond redistributive justice. Also, dark matter seems to share very little common ground with the avant-garde tradition of revolutionary art, whose distinct purpose is to represent the social function of art in class society. As Žižek has argued, an ideological identification exerts the greatest pressure on us when we fool ourselves into believing we are not fully identical to it. The epistemological crisis in the arts that is mentioned in Sholette’s introduction to </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Dark Matter</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> should therefore not be thought to directly reflect the crisis in global capital, though the connections between these spheres do indeed need to be drawn.</Content>
+				<Br/>
+				<Content>A second idiot in this set is Brian Holmes and his theory of ‘liar’s poker’. Holmes is one of the sharpest analysts of artistic resistance within societies of control and is also, like so many contemporary theorists, skeptical of avant-garde modes of contestation. Within the new flexible regimes of accumulation and casual freelance culture, the demands for autonomy, he argues, are diverted into new modes of control.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Brian Holmes, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Unleashing the Collective Phantoms: Essays in Reverse Imagineering</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Brooklyn: Autonomedia, 2008, p. 19.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The premise of liar’s poker, as he puts it, is that ‘when people talk about politics in an artistic frame, they’re lying’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Holmes, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Unleashing the Collective Phantoms</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 81.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Cultural institutions, he argues, constantly demand that artists ‘picture politics’, playing the art game and representing those who are excluded to those who are safely nestled inside, especially transnational corporations, who then support the realm of art as a sphere that is separate from abstract financial decisions. Anti-art artists who work directly in the public sphere or on the terrain of everyday life, or within new technological and scientific landscapes, only pretend to leave behind the artistic frame. In reality they collude with curators and directors to show images of political reality. Because the latter are averse to such realism, the artist has to bluff their way through. Holmes assumes, however, that an artist involved with a social movement is an artist that has successfully challenged the guilt relations of the art system. Because of this he is deeply suspicious of the function of belief, which, he argues, is a powerful or interesting fetish, an illusion that gets players caught in the game rather than directly confronting power, as in the case of artworks that deepen the links between art activism and social movements. What distinguishes Holmes from Žižek, however, is that he does not ask us to believe even more in art and to directly assume the lack in the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> — a small distinction, but a crucial one if we are to see art institutions as anything more than duplicitous. Like Sholette, Holmes is concerned that institutions seek cultural capital among ‘the more radical fractions of the artistic field’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Holmes, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Unleashing the Collective Phantoms</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 91.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The artist has to produce the ace of politics, he argues, while proving all the while that the ace is merely a joker, thereby undermining the reality of the illusion. Like so many leftists, Holmes assumes that the big Other is or can be occupied.</Content>
+				<Br/>
+				<Content>The second subject position outlined by Žižek is the moron, defined by ‘the stupidity of those who fully identify with common sense, who fully stand for the big Other of appearances’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 1.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Two notable cultural theorists who might in some ways fill this description are Grant Kester and Claire Bishop. Kester is a seasoned art critic with a long track record of insightful writing on the shift from public art and identity politics in the 1980s and 90s to the new phenomenon of community art in the 90s and 2000s. The type of site-specific collaborative work that he champions unfolds, he says, through an extended interaction with local communities. Like many proponents of the new tendencies, he has worked to anchor his theory of ‘dialogical aesthetics’ in both social and political history as well as the philosophy of aesthetics. While erudite and knowledgeable, Kester’s polemic, as presented in his book </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>The One and the Many</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, is intensely prescriptive.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Grant Kester, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The One and the Many: Contemporary Collaborative Art in a Global Context</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Durham: Duke University Press, 2011.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> For the sake of artist groups like Park Fiction, Ala Plastica, and Dialogue, all avant-garde tactics (reduced to formalist modernism) are proscribed, including the work of leading cultural theorists like Barthes, Derrida, de Certeau, Lyotard, Kristeva, Blanchot, Badiou, Deleuze and Guattari, Agamben, Nancy, Levinas, and Rancière — anyone associated with the post-May 68 generation of postmodern pessimism and who programmatically guard against premature totalizations.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>We are witnessing today a certain disenchantment with the existing parameters of avant-garde art and an attempt to rearticulate the specificity of the aesthetic in relationship to both the viewer and to other cultural and political practices.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Kester, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The One and the Many</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, pp. 36-37.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The leitmotif of avant-garde and theoretical post-structuralism, he argues, is the impossibility of social cohesion.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Kester, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The One and the Many</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 49.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> In contrast, Kester is interested in the global phenomenon and success of collaborative modes of production, as found for instance in the work of Border Arts Workshop, Group Material, REPOhistory, Gran Fury, Platform, WochenKlausur, and Groupo Etcetera, where emphasis is placed on multiple authorship, participatory relation to audience, and process-based activist intervention.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Kester, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The One and the Many</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 4.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Despite his critique of what he calls the ‘intellectual baroque’, Kester’s dialogical aesthetics retains many of the typical leitmotifs of postmodernism, especially the distinctions that are made between pluralism and an older avant-garde notion of culture that retained some links to the class politics of socialism. With globalization, I would argue, social forms have channeled culture in such a way as to give it a privileged role in economic development. According to George Yúdice, culture is today treated as an expedient, construed as a resource for sociopolitical ameliorism and job creation, a process that coincides with capitalist ideology and biopolitical regulation.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	George Yúdice, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Expediency of Culture: Uses of Culture in the Global Era</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Durham: Duke University Press, 2003.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The role of culture, Yúdice argues, ‘has expanded in an unprecedented way into the political and economic at the same time that conventional notions of culture have been emptied out’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Yúdice, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Expediency of Culture</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 9.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Unlike Sholette and Holmes, Kester tends to underplay this problem of institutional mediation, leaving actually existing institutions all the more operative in the administration of socially engaged art.</Content>
+				<Br/>
+				<Content>Another critic we could add to the group of morons is Claire Bishop. Bishop is well-known for her 2004 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>October</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> essay in which she criticized Bourriaud’s relational aesthetics for its rhetoric of democracy and emancipation.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Claire Bishop, ‘Antagonism and Relational Aesthetics’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>October</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 110 (2004): 51-79.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The open works advocated by contemporary critics like Bourriaud foreground interaction rather than contemplation and engagement rather than passivity and disengagement, assuming that these former modalities are inherently political and emancipatory. She argues that Bourriaud wants to equate aesthetic judgement with political judgement. ‘But how’, she asks, ‘do we measure or compare these relationships?’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Bishop, ‘Antagonism and Relational Aesthetics’: 65.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Dialogue, she says, is assumed in advance to be democratic, excluding other modalities, like autonomy, antagonism, oppositionality, destabilization, and artworks that recognize the limits of ‘society’s ability to fully constitute itself’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Bishop, ‘Antagonism and Relational Aesthetics’: 67.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> She defines the autonomy of the artwork in terms of the social antagonism that is mirrored in the tension between art and society. Bishop insists that we should be better able to judge art itself and not merely better politics, and therefore acknowledge the limits of what art can do. One of the problems here is the return to the function of criticism and the assumption that art, by itself, can be the object of objective assessment. In this gesture Bishop obviates the notion of antagonism that she otherwise recognizes. While she exposes what is repressed in the idea of social harmony, she ignores how art itself acts as this agent of repression. In this regard, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Artificial Hells</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, her latest treatment of participatory art, mostly expands the number of examples rather than improve the initial theory.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Claire Bishop, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Artificial Hells: Participatory Art and the Politics of Spectatorship</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, London: Verso, 2012.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> She worries about the instrumentalization of participatory art, something Kester is less troubled by, but perhaps misses the point that this apprehension is misplaced insofar as it concerns itself with art </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>per se</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> and art criticism as a means of institutional legitimation (perhaps to satisfy critics like Graeber). She very correctly recognizes that the new European cultural policies enacted under </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>New Labour</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> in the U.K. are a form of social engineering but fails to produce a theory that addresses how and why art eludes such institutionalization.</Content>
+				<Br/>
+				<Content>I would argue, in contrast, that it is quite possible for an artwork to be valid as an autonomous and critical work and at the same time to defy institutional capture, and this, without denying the incompleteness of the social. For me to say this, I should think that I belong to the third group in Žižek’s series: the imbeciles. An imbecile is someone whose mental retardation causes him to be aware of the need for a </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, but who does not rely on it. The imbecile is somewhere between the idiot and the moron, who recognizes the function of language but who distrusts it.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 2.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> exists, but is inconsistent. The question for aesthetics, then, is to consider in theoretical and not only sociological terms the ways in which the art world guarantees the consistency of the rules of art, allowing for dark matter to be distinguished from consecrated artists. What unites the idiot, the moron and the imbecile is the inconsistency of their belief in the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> of art and, as I argue further on, this inconsistency represents the ‘perverse core’ of aesthetics as such.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The Reality of the Fiction</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>What is the significance of critical art in the context of contemporary cultural theory, within the space of culture in general, and as it is being reengineered to conform ever more tightly with the needs of accumulation — leading many to presume that avant-garde artworks and films have been made obsolete by new social relations and by the new regimes of production? Here I would like to pursue the path of the imbecile with reference to Žižek’s chapter on Christianity in the opening ‘Drink Before’ section of </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Less Than Nothing</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. The trick is to not reduce theory to empiricism and to focus on the negative energy of art rather than the positivity of the social causes that artists are being increasingly expected to deal with directly. While I do not agree with those who argue that art and reparative social work or political propaganda are inherently separate activities, I do think that socially engaged art benefits from some aesthetic theorizing that goes beyond German idealism.</Content>
+				<Br/>
+				<Content>Žižek’s attention to Hegel in </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Less Than Nothing</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> is largely due to the overlap with Lacan and Žižek’s view that among the German idealists, Hegel alone is able to sustain the idea of the lack in the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> and the dialectical reversal that occurs when an epistemological obstacle is transposed directly into the Thing itself — here the work of art.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 17.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> ‘Our inability to know the thing indicates a crack in the thing itself, so that our very failure to reach the full truth is the indicator of truth.’</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 17.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> No wonder then that dark matter, to take up the metaphor, is obviated by the obsession with the celebrity star system: Picasso, Van Gogh, Ai Weiwei, Gerhard Richter, Jeff Koons, what have you. One problem in the structure of ideology, Žižek explains, is that there is no public, no symbolic agency that is there to register or witness the disasters of capitalism. What is missing is the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, the space of symbolic inscription and ideological suture. In contrast to Claire Bishop’s quest to determine institutional criteria for judging participatory art, Žižek writes:</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Schoenberg still hoped that somewhere there would be at least one listener who would truly understand his atonal music. It was only his greatest pupil, Anton Webern, who accepted the fact that there is no listener, no big Other to receive the work and properly recognize its value.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 29.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>There are no guarantees for art and this becomes one of the principal axioms of the notion of creativity. Those who worry that all creativity is today harnessed by capital miss an important point: the form of illusory appearance remains on the surface of things and is thus closer to the Real than historical reality itself. The concern of political moralists and reformists is often to escape from the Real of illusion through some kind of transgression that seeks to show the true, so-called ‘phenomenal’ reality, usually by pointing to some token of reality: bodily affect, group interaction, S&amp;P indicators, the haptic qualities of new media, etc. The idea that art criticism should be more global in scope, representing a greater diversity of experiences, is one way among many to avoid the Real of illusion.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Marc James Léger, ‘Art and Art History After Globalization’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Third Text</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 26:5 (2012): 515-527.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> What then can artworks tell us about the changing parameters of what Peter Bürger defined as the ‘institution art’?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Peter Bürger, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Theory of the Avant-Garde</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, trans. Michael Shaw, Minneapolis: University of Minnesota Press, 1984.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br/>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The unique quality of art is that more than most other things in our social universe it can express the reality of illusion through any random object. This illusory quality is a secret, in Marx the commodity fetish, or in Lacan, the ineffable </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>objet a</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> that allows anything to be elevated to the concept of Art and allows it to be installed in the symbolic order. The artist comes closest to this understanding when he or she intervenes through the neutral position of the analyst.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Marc James Léger, ‘The Subject Supposed to Over-Identify: BAVO and the Fundamental Fantasy of a Cultural Avant Garde’, in Léger (ed.), </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Brave New Avant Garde: Essays on Contemporary Art and Politics</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Winchester, UK: Zero Books, 2012.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The artist’s neutrality cannot be socially localized since the art thing has no ontological reality but is a virtual point. This is what Lacan refers to in the notion of </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>le père ou le pire</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> — the oedipal father or the worse, the choice of art as the worse option, which more effectively undermines the entire symbolic field. Avant-garde works represent a negative force against the organic unity of community and as such are vital to emancipatory politics.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 70.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Strict egalitarian emancipation cancels rather than preserves the organic unity of the hierarchical social order. Radical art operates as the obscene disavowed underside of the art world ponzi scheme. How so?</Content>
+				<Br/>
+				<Content>Almost every artwork preserves some aspect of the idea of art as a reserve, or background against which we can measure deviations. Art’s non-art status is therefore inscribed into the idea of Art — something that Duchamp was perhaps the first artist to expound. Art is deeply atheistic, to put things in terms of belief, and perversion is at the core of the aesthetic. The obsession with the ineffable </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> is sublated into acts of creation, something that Lacan defines as drive. Creativity can therefore be defined as the eruption of a new form that reorganizes the social field, imposing itself as a new necessity through an act of ungrounded subjective decision, abandoned by Art and with no guarantee of aesthetic value or art world consecration.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Žižek, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Less than Nothing</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, pp. 106-11.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The inscrutability of the aesthetic </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>big Other</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, even as blue chip investment, is the certitude of creativity, the condition of its ecstatic production. Since art is dead and the author is dead and since therefore the function of the critic is nullified, art making and art judgments are sacrificed to a pure Otherness of subjective destitution.</Content>
+				<Br/>
+				<Content>Art making is a scandal that undermines art from within. Such work has a tragic self-effacing quality that socially engaged art sometimes refuses in its resentment and narcissistic hatred of the ‘no’ of Art. It denounces art in favor of ethics but it does so through the disavowal of the love of art. It proffers the socially networked artist as the better of the avant-garde artist but it is the latter who properly betrays the extorsion of creativity. The revolutionary artist acts unconditionally and therefore comes closest to art’s expression of freedom and emancipation, insisting, much like Antigone, on symbolic demand. The creative artist is consequently excluded from the community of humans.</Content>
+				<Br/>
+				<Content>Holmes’ notion of ‘liar’s poker’ can be explained as the insistence on aesthetic sublimation rather than the insistence on the refusal of co-optation; it implies an awareness of the monstrosity of the game since the game is not only fixed in the symbolic order, but more radically, since through his or her act the artist believes in the game more than s/he is aware. The artist acts as though he or she is not aware of capitalist recuperation, observing the appearances, the virtuality of the illusion of the real. In the case of Barber’s pyramid, the ‘prayer’ in the set represents a transitive function; he or she does not have to believe since belief is presupposed by the artwork as virtual entity. No wonder then that so many artists today are attempting to go beyond the making of objects, taking social interaction itself as the direct instantiation of art. This becomes possible due to the perverse core of art and is an indication of the transitivity of belief. The paradox, however, is that if we take away whatever stands in for belief, we lose the reality of the illusion and so any claim to emancipation through the community of believers is equally annulled. The function of the art world, therefore — critics, museums, magazines, even this essay — is to maintain appearances, in particular, against any agency or Master who would pretend to know everything. The master artist is the person who possesses an almost God-like ability to both make art and to simultaneously prohibit the making of art. This prohibition takes the form in capitalist society of symbolic castration through surplus value. A provisional definition of the avant-garde artist can therefore be the condition of the acceptance of the inexistence of aesthetic criteria. There are no guarantees for the social importance of artworks, only the passage from creativity to consequences. For things to happen, creation must be a condition of the truth of illusion.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference List (title)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>References</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference List">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Aranda, Julieta, Brian Kuan Wood and Anton Vidokle (eds). ‘Editorial’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>e-flux journal 21</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (2010), http://www.e-flux.com/journal/editorial-18/.</Content>
+				<Br/>
+				<Content>Bishop, Claire. ‘Antagonism and Relational Aesthetics’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>October 110</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (2004): 51-79.</Content>
+				<Br/>
+				<Content>Bishop, Claire. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Artificial Hells: Participatory Art and the Politics of Spectatorship</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, London: Verso, 2012.</Content>
+				<Br/>
+				<Content>Bürger, Peter. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Theory of the Avant-Garde</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, trans. Michael Shaw, Minneapolis: University of Minnesota Press, 1984.</Content>
+				<Br/>
+				<Content>Graeber, David. ‘“The Sadness of Post-Workerism”, or, “Art and Immaterial Labour” Conference: A Sort of Review’, 2008, http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.</Content>
+				<Br/>
+				<Content>Holmes, Brian. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Unleashing the Collective Phantoms: Essays in Reverse Imagineering</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Brooklyn: Autonomedia, 2008.</Content>
+				<Br/>
+				<Content>Kester, Grant. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>The One and the Many: Contemporary Collaborative Art in a Global Context</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Durham: Duke University Press, 2011.</Content>
+				<Br/>
+				<Content>Léger, Marc James. ‘Art and Art History After Globalization’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Third Text</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 26:5 (2012): 515-527.</Content>
+				<Br/>
+				<Content>Léger, Marc James. ‘The Subject Supposed to Over-Identify: BAVO and the Fundamental Fantasy of a Cultural Avant Garde’, in Léger (ed.) </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Brave New Avant Garde: Essays on Contemporary Art and Politics</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Winchester, UK: Zero Books, 2012.</Content>
+				<Br/>
+				<Content>Raunig, Gerald, Gene Ray and Ulf Wuggenig (eds). </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Critique of Creativity: Precarity, Subjectivity and Resistance in the ‘Creative Industries’</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, London: MayFly Books, 2011.</Content>
+				<Br/>
+				<Content>Roberts, John. ‘Art, “Enclave Theory” and the Communist Imaginary’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Third Text</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 23:4 (2009): 353-367.</Content>
+				<Br/>
+				<Content>Sholette, Gregory. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Dark Matter: Art and Politics in the Age of Enterprise Culture</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, London: Pluto, 2011.</Content>
+				<Br/>
+				<Content>Yúdice, George. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>The Expediency of Culture: Uses of Culture in the Global Era</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Durham: Duke University Press, 2003.</Content>
+				<Br/>
+				<Content>Žižek, Slavoj. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>The Fragile Absolute, or, Why Is the Christian Legacy Worth Fighting For?,</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> London: Verso, 2000.</Content>
+				<Br/>
+				<Content>Žižek, Slavoj. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Less than Nothing: Hegel and the Shadow of Dialectical Materialism</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, London: Verso, 2012.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 38" DestinationUniqueKey="4" Name="URL 38" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 37" DestinationUniqueKey="5" Name="URL 37" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+</Document>
