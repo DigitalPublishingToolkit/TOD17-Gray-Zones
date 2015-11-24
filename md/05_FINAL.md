@@ -539,36 +539,36 @@ cultural) activism becomes an instrument of capital.
 
 Barok, Dušan. *On Participatory Art: Interview with Clear Bishop*.
 Prague: Transit Initiative, 29 July 2009,
-*http://www.academia.edu/771895/On\_participatory\_art\_Interview\_with\_Claire\_Bishop* (http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop).
+*http://www.academia.edu/771895/On\_participatory\_art\_Interview\_with\_Claire\_Bishop* (<a href="http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop">http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop</a>).
 
-Berman, Marshall (http://en.wikipedia.org/wiki/Marshall_Berman). *All
+Berman, Marshall (<a href="http://en.wikipedia.org/wiki/Marshall_Berman">http://en.wikipedia.org/wiki/Marshall_Berman</a>). *All
 That Is Solid Melts into Air: The Experience of
-Modernity* (http://books.google.co.uk/books?id=mox1ywiyhtgC), Ringwood:
+Modernity* (<a href="http://books.google.co.uk/books?id=mox1ywiyhtgC">http://books.google.co.uk/books?id=mox1ywiyhtgC</a>), Ringwood:
 Viking Penguin. 1988.
 
 Beograd 2020.
-*http://www.beograd2020.com/* (http://www.beograd2020.com/).
+*http://www.beograd2020.com/* (<a href="http://www.beograd2020.com/">http://www.beograd2020.com</a>).
 
 Beograd na vodi: projekat vredan osam milijardi evra! \[Belgrade on
 Water: A Project Worth Eight Billion Euros!\], *Večernje novosti*, 14
 October 2013,
-*http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045* (http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045).
+*http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045* (<a href="http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045">http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045</a>).
 
 Beograd na vodi ili političari u kampanji \[Belgrade on Water or
 Politicians Campaigning\], *Politika*, 11 August 2013,
-*http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html* (http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html).
+*http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html* (<a href="http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html">http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html</a>).
 
 Berry Slater, J. and Iles, A. *No Room to Move: Radical Art and
 Regenerate City*, London: Mute, 2010.
 
 C5, School of Urban Practices.
-*http://projectc5.blogspot.it/*(http://projectc5.blogspot.it/).
+*http://projectc5.blogspot.it/* (<a href="http://projectc5.blogspot.it/">http://projectc5.blogspot.it</a>).
 
 *Creative Europe.*
-*http://ec.europa.eu/culture/creative-europe/*(http://ec.europa.eu/culture/creative-europe/).
+*http://ec.europa.eu/culture/creative-europe/* (<a href="http://ec.europa.eu/culture/creative-europe/">http://ec.europa.eu/culture/creative-europe</a>).
 
 Dave Beech, ‘Include Me Out!’. *ViS*, 1 September 2010,
-*http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/*(http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/).
+*http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/* (<a href="http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation">http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation</a>).
 
 Castells, Manuel. *The Urban Question*, London: Edward Arnold, 1977.
 
@@ -588,11 +588,11 @@ Glass, Ruth. *London: Aspects of Change*, London: Centre for Urban
 Studies, 1964.
 
 Grad na vodi: Luka Beograd \[Water City: the Port of Belgrade\],
-*http://www.lukabeograd.com/GradNaVodi/Masterplan.html*(http://www.lukabeograd.com/GradNaVodi/Masterplan.html).
+*http://www.lukabeograd.com/GradNaVodi/Masterplan.html*(<a href="http://www.lukabeograd.com/GradNaVodi/Masterplan.html">http://www.lukabeograd.com/GradNaVodi/Masterplan.html</a>).
 
 Grlja, Dušan. ‘Antinomies of Post-Socialist Autonomy’. *Red Thread*
 (2009),
-*http://www.red-thread.org/en/article.asp?a=16* (http://www.red-thread.org/en/article.asp?a=16).
+*http://www.red-thread.org/en/article.asp?a=16* (<a href="http://www.red-thread.org/en/article.asp?a=16">http://www.red-thread.org/en/article.asp?a=16</a>).
 
 Harvey, David. *The Urbanization of Capital.* Oxford: Basil Blackwell,
 1985.
@@ -626,10 +626,10 @@ Libby Porter and Kate Shaw (eds). *Whose Urban Renaissance,* London:
 Routledge, 2009.
 
 Luka Beograd. Grad na vodi \[The Port of Belgrade – Water City\],
-http://www.lukabeograd.com/GradNaVodi/Masterplan.html.
+<a href="http://www.lukabeograd.com/GradNaVodi/Masterplan.html">http://www.lukabeograd.com/GradNaVodi/Masterplan.html</a>.
 
 Mikser \[Mixer\]. *http://blog.mikser.rs/o-mikseru. 04th August
-2013*(http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013).
+2013* (<a href="http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013">http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013</a>).
 
 Monthoux, Pierre Guillet de. ‘Organising Reality Machines: Artepreneurs
 and the new Aesthetic Enlightenment’, in Daniel Hjorth (ed.), *Handbook
@@ -641,15 +641,15 @@ Art, Gentrification and the Metropolis\], in Ana Vilenica and kuda.org.
 *Na ruševinama kreativnog grada*, Novi Sad: kuda.org, 2012.
 
 Peck, Jamie. ‘The Creativity Fix’ in *Eurozine*, 28 June 2007,
-http://www.eurozine.com/articles/2007-06-28-peck-en.html.
+<a href="http://www.eurozine.com/articles/2007-06-28-peck-en.html">http://www.eurozine.com/articles/2007-06-28-peck-en.html</a>.
 
 Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure Initiated for
 the Port of Belgrade\], *Vreme*, 6 August 2013,
-*http://www.vreme.rs/cms/view.php?id=1130342* (http://www.vreme.rs/cms/view.php?id=1130342)
+*http://www.vreme.rs/cms/view.php?id=1130342* (<a href="http://www.vreme.rs/cms/view.php?id=1130342">http://www.vreme.rs/cms/view.php?id=1130342</a>)
 
 Počela beogradizacija Beograda \[The Belgradisation of Belgrade
 Begins\], *Blic*, 2 August 2010,
-*http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda* (http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda).
+*http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda* (<a href="http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda">http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda</a>).
 
 Rikalović, Gojko. *Kreativna Srbija: Novi pravci razvoja* \[*Creative
 Serbia: New Directions of Development*\]. Belgrade: Anonymous said,
@@ -660,7 +660,7 @@ Belgrade and the Serbian Progressive Party\], *Politika*, 11 September
 2012.
 
 Soho u Beogradu \[Soho in Belgrade\],
-*http://www2.lukabeograd.com/soho-bg.html*(http://www2.lukabeograd.com/soho-bg.html).
+*http://www2.lukabeograd.com/soho-bg.html* (<a href="http://www2.lukabeograd.com/soho-bg.html">http://www2.lukabeograd.com/soho-bg.html</a>).
 
 Smith, Neil. *Uneven Development: Nature, Capital, and the Production of
 Space*, Oxford: Basil Blackwell, 1990.
@@ -679,10 +679,10 @@ Institute for International Relations, 2005.
 
 UN CER. United Nations Creative Economy Report (UN CER), United Nations,
 2008,
-*http://unctad.org/en/Docs/ditc20082cer\_en.pdf* (http://unctad.org/en/Docs/ditc20082cer_en.pdf).
+*http://unctad.org/en/Docs/ditc20082cer\_en.pdf* (<a href="http://unctad.org/en/Docs/ditc20082cer_en.pdf">http://unctad.org/en/Docs/ditc20082cer_en.pdf</a>).
 
 Urban Incubator Belgrade,
-*http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm* (http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm).
+*http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm* (<a href="http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm">http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm</a>).
 
 Uskoro novo lice Savskog trga \[Soon, a New Look of Sava Square\],
 *Blic*, 28 November 2011.
@@ -699,7 +699,7 @@ grada*, Novi Sad: kuda.org, 2012.
 Vilenica, Ana. ‘Soho u Beogradu: Umetnička elita u službi tajkuna \[Soho
 in Belgrade: The Art Elite in the Service of Tycoons\], in nsparentnost
 *2012*, 14 September 2011,
-http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617.
+<a href="http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617">http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617</a>.
 
 Vuksanović-Macura, Zlata. *Život na ivici: Stanovanje sirotinje u
 Beogradu 1919-1941* \[*Living on the Edge: The Housing of the Poor in
@@ -719,7 +719,7 @@ Blackwell, 1995.
 
 Šeik ‘doneo’ BG na vodi, kredite… \[The Sheikh ‘Brings’ Belgrade on
 Water, Loans\], *B92*, 12 December 2013,
-http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601).
+http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (<a href="http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601">http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601</a>).
 
 [^1]: Raúl Zibechi, *Territories in Resistance: A Cartography of Latin
     American Social Movements*, Edinburgh: AK Press, 2012.
@@ -755,7 +755,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 [^8]: Richard Florida, *Cities and the Creative Class*, London:
     Routledge, 2005; UN CER. United Nations Creative Economy Report (UN
     CER), United Nations, 2008,
-    http://unctad.org/en/Docs/ditc20082cer\_en.pdf;
+    <a href="http://unctad.org/en/Docs/ditc20082cer\_en.pdf">http://unctad.org/en/Docs/ditc20082cer\_en.pdf</a>;
     Nada Švob-Đokić (ed.) *The Emerging Creative industries in
     Southeastern Europe*, Zagreb: Institute for International Relations,
     2005.
@@ -776,7 +776,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^12]: Dušan Grlja, ‘Antinomies of Post-Socialist Autonomy’, *Red
     Thread*, 2009,
-    http://www.red-thread.org/en/article.asp?a=16.
+    <a href="http://www.red-thread.org/en/article.asp?a=16">http://www.red-thread.org/en/article.asp?a=16</a>.
 
 [^13]: Pierre Guillet de Monthoux, ‘Organising Reality Machines:
     Artepreneurs and the New Aesthetic Enlightenment’, in Daniel Hjorth
@@ -789,7 +789,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^15]: ‘Beograd na vodi ili političari u kampanji \[Belgrade on Water or
     Politicians Campaigning\], *Politika*, 11 August 2013,
-    http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html.
+    <a href="http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html">http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html</a>.
 
 [^16]: Miloš Jovanović, *Constructing the National Capital*, master
     diss., CEU, Budapest, 2008.
@@ -809,7 +809,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 [^21]: Ana Vilenica, ‘Soho u Beogradu: Umetnička elita u službi tajkuna
     \[Soho in Belgrade: The Art Elite in the Service of Tycoons\], in
     *Maribor 2012*, 14 September 2011,
-    http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617.
+    <a href="http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617">http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617</a>.
 
 [^22]: Vilenica, ‘Soho u Beogradu’.
 
@@ -817,10 +817,10 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^24]: ‘Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure
     Initiated for the Port of Belgrade\], *Vreme*, 6 August 2013,
-    http://www.vreme.rs/cms/view.php?id=1130342.
+    <a href="http://www.vreme.rs/cms/view.php?id=1130342">http://www.vreme.rs/cms/view.php?id=1130342</a>.
 
 [^25]: Mikser \[Mixer\], 4 August 2013,
-    http://blog.mikser.rs/o-mikseru.
+    <a href="http://blog.mikser.rs/o-mikseru">http://blog.mikser.rs/o-mikseru</a>.
 
 [^26]: Marshall Berman, *All That Is Solid Melts into Air: The
     Experience of Modernity*, Ringwood: Viking Penguin. 1988; David
@@ -828,10 +828,10 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
     UK: Blackwell, 1992.
 
 [^27]: Urban Incubator Belgrade,
-    http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm.
+    <a href="http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm">http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm</a>.
 
 [^28]: C5, School of Urban Practices,
-    http://projectc5.blogspot.it/ (http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop).
+    http://projectc5.blogspot.it/ (<a href="http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop">http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop</a>).
 
 [^29]: George Yudice, *The Expediency of Culture: Uses of Culture in the
     Global Era*, Durham and London: Duke University Press, 2003.

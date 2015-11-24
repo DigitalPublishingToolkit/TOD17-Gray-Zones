@@ -458,7 +458,7 @@ creation must be a condition of the truth of illusion.
 
 Aranda, Julieta, Brian Kuan Wood and Anton Vidokle (eds). ‘Editorial’,
 *e-flux journal 21* (2010),
-http://www.e-flux.com/journal/editorial-18/.
+<a href="http://www.e-flux.com/journal/editorial-18/">http://www.e-flux.com/journal/editorial-18</a>.
 
 Bishop, Claire. ‘Antagonism and Relational Aesthetics’, *October 110*
 (2004): 51-79.
@@ -471,7 +471,7 @@ Minneapolis: University of Minnesota Press, 1984.
 
 Graeber, David. ‘“The Sadness of Post-Workerism”, or, “Art and
 Immaterial Labour” Conference: A Sort of Review’, 2008,
-http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.
+<a href="http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber">http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber</a>.
 
 Holmes, Brian. *Unleashing the Collective Phantoms: Essays in Reverse
 Imagineering*, Brooklyn: Autonomedia, 2008.
@@ -511,7 +511,7 @@ Materialism*, London: Verso, 2012.
 
 [^2]: Julieta Aranda, Brian Kuan Wood and Anton Vidokle (eds),
     ‘Editorial’, *e-flux journal* 21 (2010),
-    http://www.e-flux.com/journal/editorial-18/.
+    <a href="http://www.e-flux.com/journal/editorial-18/">http://www.e-flux.com/journal/editorial-18</a>.
 
 [^3]: See Gerald Raunig, Gene Ray and Ulf Wuggenig (eds), *Critique of
     Creativity: Precarity, Subjectivity and Resistance in the ‘Creative
@@ -522,7 +522,7 @@ Materialism*, London: Verso, 2012.
 
 [^5]: David Graeber, ‘“The Sadness of Post-Workerism”, or “Art and
     Immaterial Labour” Conference: A Sort of Review’, 2008,
-    http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.
+    <a href="http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber">http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber</a>.
 
 [^6]: Graeber, ‘“The Sadness of Post-Workerism”’.
 
