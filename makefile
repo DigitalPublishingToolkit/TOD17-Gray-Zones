@@ -83,9 +83,7 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
-		--epub-embed-font=../lib/OpenSans-Regular.otf \
-		--epub-embed-font=../lib/OpenSans-Light.otf \
-		--epub-embed-font=../lib/OpenSans-LightItalic.otf \
+		--epub-embed-font=../lib/* \
 		-o ../book.epub \
 		book.md && \
 		cd ..
