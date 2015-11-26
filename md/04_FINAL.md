@@ -85,7 +85,7 @@ Ponzi Scheme*, which shows a pyramid comprized of payers, prayers, and
 players, all of them trapped within a hierarchically inegalitarian
 system. The intrigue in this drawing, especially as it comes after the
 biggest financial debacle since the 1970s, is that the currency of art
-is premised on false claims, or even ‘toxic assets’.<br><br/>
+is premised on false claims, or even ‘toxic assets’.<br/><br/>
 ![](imgs/Leger.jpg)
 
 Fig. Bruce Barber, *Artworld Ponzi Scheme*, drawing, 2008. Courtesy of

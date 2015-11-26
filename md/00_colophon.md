@@ -24,9 +24,7 @@ Copyright 2015 Steve Matteson & GoogleFonts
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -47,11 +45,9 @@ Theory on Demand #17
 **Editors:** Šefik Tatlić, Gordana Nikolić<br/>
 **Copy-editing:**  Josip Batinić, Inte Gloerich, Léna Robin<br/>
 **Editorial support:** Miriam Rasch<br/>
-**Translation:** Novica Petrović (for ‘The Art of New Class Geography of the City’)<br><br>
-**Design:** Josip Batinić, Léna Robin
-<br/>
-**EPUB development:** Josip Batinić, Léna Robin
-<br/> 
+**Translation:** Novica Petrović (for ‘The Art of New Class Geography of the City’)<br></br>
+**Design:** Josip Batinić, Léna Robin<br/>
+**EPUB development:** Josip Batinić, Léna Robin<br/> 
 
 **Printer:** Print on Demand<br/>
 **Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
@@ -90,5 +86,4 @@ in the Neoliberal Machine of Creative Industries</a><br/>
 
 <a href="ch009.xhtml">Neoliberalism and the Autonomy of Art:
 The Culture of Power, the Power of Culture	</a><br/>
-<br/>
 
