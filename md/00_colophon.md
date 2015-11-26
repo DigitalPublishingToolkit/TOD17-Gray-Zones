@@ -45,9 +45,9 @@ Theory on Demand #17
 
 
 **Editors:** Šefik Tatlić, Gordana Nikolić<br/>
-**Copy-editing:**  Josip Batinić, Inte Gloerich, Miriam Rasch, Léna Robin<br/>
+**Copy-editing:**  Josip Batinić, Inte Gloerich, Léna Robin<br/>
 **Editorial support:** Miriam Rasch<br/>
-
+**Translation:** Novica Petrović (for ‘The Art of New Class Geography of the City’)<br><br>
 **Design:** Josip Batinić, Léna Robin
 <br/>
 **EPUB development:** Josip Batinić, Léna Robin

@@ -7,9 +7,10 @@ Theory on Demand #17
 
 
 **Editors:** Šefik Tatlić, Gordana Nikolić<br/>
-**Copy-editing:**  Josip Batinić, Inte Gloerich, Miriam Rasch, Léna Robin<br/>
+**Copy-editing:**  Josip Batinić, Inte Gloerich, Léna Robin<br/>
 **Editorial support:** Miriam Rasch<br/>
-
+**Translation:** Novica Petrović (for ‘The Art of New Class Geography of the City’)
+<br><br>
 **Design:** Josip Batinić, Léna Robin
 <br/>
 **EPUB development:** Josip Batinić, Léna Robin
@@ -62,7 +63,7 @@ The Culture of Power, the Power of Culture	</a><br/>
 # The Gray Zones of Creativity and Capital: Introduction#
 ### Šefik Tatlić and Gordana Nikolić###
 
-The <a href="http://google.com">initial</a> idea that led to the preparation of this publication was not
+The initial idea that led to the preparation of this publication was not
 a reflection of the editors’ wish to merely add another publication
 focusing on a critique of the relationship between creative industries
 and capital to the huge corpus of similar publications taking a critical
@@ -822,7 +823,7 @@ Society of the Spectacle*, Lebanon, NH: Dartmouth University Press,
 2006.
 
 Beller, J. ‘Paying Attention’, *Cabinet* 24, 2008,
-http://www.cabinetmagazine.org/issues/24/beller.php .
+<a href="http://www.cabinetmagazine.org/issues/24/beller.php">http://www.cabinetmagazine.org/issues/24/beller.php</a>.
 
 Beller, J. ‘Camera Obscura After All: The Racist Writing With Light’, in
 Jonathan Beller (ed.) *The Scholar and Feminist Online, Special Issue:
@@ -886,7 +887,7 @@ University Press, 1999.
 
 Terranova, T. ‘Free Labor: Producing Culture for the Digital Economy’,
 2003,
-http://www.electronicbookreview.com/thread/technocapitalism/voluntary.
+<a href="http://www.electronicbookreview.com/thread/technocapitalism/voluntary">http://www.electronicbookreview.com/thread/technocapitalism/voluntary</a>.
 
 Virno, P. *A Grammar of the Multitude*, Cambridge: MIT Press, 2004.
 
@@ -939,7 +940,7 @@ Books*, Vol. 34 No. 2, (26 January, 2012): 9-10.
 
 [^14]: T. Terranova, ‘Free Labor: Producing Culture for the Digital
     Economy’, 2003,
-    http://www.electronicbookreview.com/thread/technocapitalism/voluntary.
+   <a href="http://www.electronicbookreview.com/thread/technocapitalism/voluntary">http://www.electronicbookreview.com/thread/technocapitalism/voluntary</a>.
 
 [^15]: C. Gao, ‘Virtuosic Virtuality of Asian American Youtube Stars,’
     In Jonathan Beller (ed.) *The Scholar and Feminist Online, Special
@@ -950,7 +951,7 @@ Books*, Vol. 34 No. 2, (26 January, 2012): 9-10.
     (ed.) *Digital Labor*, New York and London: Routledge, 2012.
 
 [^17]: J. Beller, ‘Paying Attention’, *Cabinet 24* (2008),
-    http://www.cabinetmagazine.org/issues/24/beller.php.
+    <a href="http://www.cabinetmagazine.org/issues/24/beller.php">http://www.cabinetmagazine.org/issues/24/beller.php</a>.
 
 [^18]: A. Césaire, *Discourse on Colonialism*, trans. J. Pinkham, New
     York and London: Monthly Review Press, 1972.
@@ -1675,7 +1676,7 @@ Wu, Chin-Tao. ‘Embracing the Enterprise Culture’, *New Left Review* 230
 
 [^19]: Boris Groys, ‘Equal Aesthetic Rights’, in *Art Power*, Cambridge,
     Massachussetts: 2008, p. 14.
-
+ 
 [^20]: Groys, *Art Power*, p. 16.
 
 [^21]: Groys, *Art Power*, p. 16.
@@ -2121,7 +2122,7 @@ creation must be a condition of the truth of illusion.
 
 Aranda, Julieta, Brian Kuan Wood and Anton Vidokle (eds). ‘Editorial’,
 *e-flux journal 21* (2010),
-http://www.e-flux.com/journal/editorial-18/.
+<a href="http://www.e-flux.com/journal/editorial-18/">http://www.e-flux.com/journal/editorial-18</a>.
 
 Bishop, Claire. ‘Antagonism and Relational Aesthetics’, *October 110*
 (2004): 51-79.
@@ -2134,7 +2135,7 @@ Minneapolis: University of Minnesota Press, 1984.
 
 Graeber, David. ‘“The Sadness of Post-Workerism”, or, “Art and
 Immaterial Labour” Conference: A Sort of Review’, 2008,
-http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.
+<a href="http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber">http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber</a>.
 
 Holmes, Brian. *Unleashing the Collective Phantoms: Essays in Reverse
 Imagineering*, Brooklyn: Autonomedia, 2008.
@@ -2174,7 +2175,7 @@ Materialism*, London: Verso, 2012.
 
 [^2]: Julieta Aranda, Brian Kuan Wood and Anton Vidokle (eds),
     ‘Editorial’, *e-flux journal* 21 (2010),
-    http://www.e-flux.com/journal/editorial-18/.
+    <a href="http://www.e-flux.com/journal/editorial-18/">http://www.e-flux.com/journal/editorial-18</a>.
 
 [^3]: See Gerald Raunig, Gene Ray and Ulf Wuggenig (eds), *Critique of
     Creativity: Precarity, Subjectivity and Resistance in the ‘Creative
@@ -2185,7 +2186,7 @@ Materialism*, London: Verso, 2012.
 
 [^5]: David Graeber, ‘“The Sadness of Post-Workerism”, or “Art and
     Immaterial Labour” Conference: A Sort of Review’, 2008,
-    http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.
+    <a href="http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber">http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber</a>.
 
 [^6]: Graeber, ‘“The Sadness of Post-Workerism”’.
 
@@ -2762,36 +2763,36 @@ cultural) activism becomes an instrument of capital.
 
 Barok, Dušan. *On Participatory Art: Interview with Clear Bishop*.
 Prague: Transit Initiative, 29 July 2009,
-*http://www.academia.edu/771895/On\_participatory\_art\_Interview\_with\_Claire\_Bishop* (http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop).
+*http://www.academia.edu/771895/On\_participatory\_art\_Interview\_with\_Claire\_Bishop* (<a href="http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop">http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop</a>).
 
-Berman, Marshall (http://en.wikipedia.org/wiki/Marshall_Berman). *All
+Berman, Marshall (<a href="http://en.wikipedia.org/wiki/Marshall_Berman">http://en.wikipedia.org/wiki/Marshall_Berman</a>). *All
 That Is Solid Melts into Air: The Experience of
-Modernity* (http://books.google.co.uk/books?id=mox1ywiyhtgC), Ringwood:
+Modernity* (<a href="http://books.google.co.uk/books?id=mox1ywiyhtgC">http://books.google.co.uk/books?id=mox1ywiyhtgC</a>), Ringwood:
 Viking Penguin. 1988.
 
 Beograd 2020.
-*http://www.beograd2020.com/* (http://www.beograd2020.com/).
+*http://www.beograd2020.com/* (<a href="http://www.beograd2020.com/">http://www.beograd2020.com</a>).
 
 Beograd na vodi: projekat vredan osam milijardi evra! \[Belgrade on
 Water: A Project Worth Eight Billion Euros!\], *Večernje novosti*, 14
 October 2013,
-*http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045* (http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045).
+*http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045* (<a href="http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045">http://www.kurir-info.rs/beograd-na-vodi-projekat-vredan-osam-milijardi-evra-clanak-1034045</a>).
 
 Beograd na vodi ili političari u kampanji \[Belgrade on Water or
 Politicians Campaigning\], *Politika*, 11 August 2013,
-*http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html* (http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html).
+*http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html* (<a href="http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html">http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html</a>).
 
 Berry Slater, J. and Iles, A. *No Room to Move: Radical Art and
 Regenerate City*, London: Mute, 2010.
 
 C5, School of Urban Practices.
-*http://projectc5.blogspot.it/*(http://projectc5.blogspot.it/).
+*http://projectc5.blogspot.it/* (<a href="http://projectc5.blogspot.it/">http://projectc5.blogspot.it</a>).
 
 *Creative Europe.*
-*http://ec.europa.eu/culture/creative-europe/*(http://ec.europa.eu/culture/creative-europe/).
+*http://ec.europa.eu/culture/creative-europe/* (<a href="http://ec.europa.eu/culture/creative-europe/">http://ec.europa.eu/culture/creative-europe</a>).
 
 Dave Beech, ‘Include Me Out!’. *ViS*, 1 September 2010,
-*http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/*(http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/).
+*http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation/* (<a href="http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation">http://visualintosocial.wordpress.com/category/talks/dave-beech-on-participation</a>).
 
 Castells, Manuel. *The Urban Question*, London: Edward Arnold, 1977.
 
@@ -2811,11 +2812,11 @@ Glass, Ruth. *London: Aspects of Change*, London: Centre for Urban
 Studies, 1964.
 
 Grad na vodi: Luka Beograd \[Water City: the Port of Belgrade\],
-*http://www.lukabeograd.com/GradNaVodi/Masterplan.html*(http://www.lukabeograd.com/GradNaVodi/Masterplan.html).
+*http://www.lukabeograd.com/GradNaVodi/Masterplan.html*(<a href="http://www.lukabeograd.com/GradNaVodi/Masterplan.html">http://www.lukabeograd.com/GradNaVodi/Masterplan.html</a>).
 
 Grlja, Dušan. ‘Antinomies of Post-Socialist Autonomy’. *Red Thread*
 (2009),
-*http://www.red-thread.org/en/article.asp?a=16* (http://www.red-thread.org/en/article.asp?a=16).
+*http://www.red-thread.org/en/article.asp?a=16* (<a href="http://www.red-thread.org/en/article.asp?a=16">http://www.red-thread.org/en/article.asp?a=16</a>).
 
 Harvey, David. *The Urbanization of Capital.* Oxford: Basil Blackwell,
 1985.
@@ -2849,10 +2850,10 @@ Libby Porter and Kate Shaw (eds). *Whose Urban Renaissance,* London:
 Routledge, 2009.
 
 Luka Beograd. Grad na vodi \[The Port of Belgrade – Water City\],
-http://www.lukabeograd.com/GradNaVodi/Masterplan.html.
+<a href="http://www.lukabeograd.com/GradNaVodi/Masterplan.html">http://www.lukabeograd.com/GradNaVodi/Masterplan.html</a>.
 
 Mikser \[Mixer\]. *http://blog.mikser.rs/o-mikseru. 04th August
-2013*(http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013).
+2013* (<a href="http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013">http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013</a>).
 
 Monthoux, Pierre Guillet de. ‘Organising Reality Machines: Artepreneurs
 and the new Aesthetic Enlightenment’, in Daniel Hjorth (ed.), *Handbook
@@ -2864,15 +2865,15 @@ Art, Gentrification and the Metropolis\], in Ana Vilenica and kuda.org.
 *Na ruševinama kreativnog grada*, Novi Sad: kuda.org, 2012.
 
 Peck, Jamie. ‘The Creativity Fix’ in *Eurozine*, 28 June 2007,
-http://www.eurozine.com/articles/2007-06-28-peck-en.html.
+<a href="http://www.eurozine.com/articles/2007-06-28-peck-en.html">http://www.eurozine.com/articles/2007-06-28-peck-en.html</a>.
 
 Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure Initiated for
 the Port of Belgrade\], *Vreme*, 6 August 2013,
-*http://www.vreme.rs/cms/view.php?id=1130342* (http://www.vreme.rs/cms/view.php?id=1130342)
+*http://www.vreme.rs/cms/view.php?id=1130342* (<a href="http://www.vreme.rs/cms/view.php?id=1130342">http://www.vreme.rs/cms/view.php?id=1130342</a>)
 
 Počela beogradizacija Beograda \[The Belgradisation of Belgrade
 Begins\], *Blic*, 2 August 2010,
-*http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda* (http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda).
+*http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda* (<a href="http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda">http://www.blic.rs/Vesti/Beograd/201025/Pocela-Beogradizacija-Beograda</a>).
 
 Rikalović, Gojko. *Kreativna Srbija: Novi pravci razvoja* \[*Creative
 Serbia: New Directions of Development*\]. Belgrade: Anonymous said,
@@ -2883,7 +2884,7 @@ Belgrade and the Serbian Progressive Party\], *Politika*, 11 September
 2012.
 
 Soho u Beogradu \[Soho in Belgrade\],
-*http://www2.lukabeograd.com/soho-bg.html*(http://www2.lukabeograd.com/soho-bg.html).
+*http://www2.lukabeograd.com/soho-bg.html* (<a href="http://www2.lukabeograd.com/soho-bg.html">http://www2.lukabeograd.com/soho-bg.html</a>).
 
 Smith, Neil. *Uneven Development: Nature, Capital, and the Production of
 Space*, Oxford: Basil Blackwell, 1990.
@@ -2902,10 +2903,10 @@ Institute for International Relations, 2005.
 
 UN CER. United Nations Creative Economy Report (UN CER), United Nations,
 2008,
-*http://unctad.org/en/Docs/ditc20082cer\_en.pdf* (http://unctad.org/en/Docs/ditc20082cer_en.pdf).
+*http://unctad.org/en/Docs/ditc20082cer\_en.pdf* (<a href="http://unctad.org/en/Docs/ditc20082cer_en.pdf">http://unctad.org/en/Docs/ditc20082cer_en.pdf</a>).
 
 Urban Incubator Belgrade,
-*http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm* (http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm).
+*http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm* (<a href="http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm">http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm</a>).
 
 Uskoro novo lice Savskog trga \[Soon, a New Look of Sava Square\],
 *Blic*, 28 November 2011.
@@ -2922,7 +2923,7 @@ grada*, Novi Sad: kuda.org, 2012.
 Vilenica, Ana. ‘Soho u Beogradu: Umetnička elita u službi tajkuna \[Soho
 in Belgrade: The Art Elite in the Service of Tycoons\], in nsparentnost
 *2012*, 14 September 2011,
-http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617.
+<a href="http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617">http://82.149.22.226/~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617</a>.
 
 Vuksanović-Macura, Zlata. *Život na ivici: Stanovanje sirotinje u
 Beogradu 1919-1941* \[*Living on the Edge: The Housing of the Poor in
@@ -2942,7 +2943,7 @@ Blackwell, 1995.
 
 Šeik ‘doneo’ BG na vodi, kredite… \[The Sheikh ‘Brings’ Belgrade on
 Water, Loans\], *B92*, 12 December 2013,
-http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601).
+http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (<a href="http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601">http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601</a>).
 
 [^1]: Raúl Zibechi, *Territories in Resistance: A Cartography of Latin
     American Social Movements*, Edinburgh: AK Press, 2012.
@@ -2978,7 +2979,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 [^8]: Richard Florida, *Cities and the Creative Class*, London:
     Routledge, 2005; UN CER. United Nations Creative Economy Report (UN
     CER), United Nations, 2008,
-    http://unctad.org/en/Docs/ditc20082cer\_en.pdf;
+    <a href="http://unctad.org/en/Docs/ditc20082cer\_en.pdf">http://unctad.org/en/Docs/ditc20082cer\_en.pdf</a>;
     Nada Švob-Đokić (ed.) *The Emerging Creative industries in
     Southeastern Europe*, Zagreb: Institute for International Relations,
     2005.
@@ -2999,7 +3000,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^12]: Dušan Grlja, ‘Antinomies of Post-Socialist Autonomy’, *Red
     Thread*, 2009,
-    http://www.red-thread.org/en/article.asp?a=16.
+    <a href="http://www.red-thread.org/en/article.asp?a=16">http://www.red-thread.org/en/article.asp?a=16</a>.
 
 [^13]: Pierre Guillet de Monthoux, ‘Organising Reality Machines:
     Artepreneurs and the New Aesthetic Enlightenment’, in Daniel Hjorth
@@ -3012,7 +3013,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^15]: ‘Beograd na vodi ili političari u kampanji \[Belgrade on Water or
     Politicians Campaigning\], *Politika*, 11 August 2013,
-    http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html.
+    <a href="http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html">http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html</a>.
 
 [^16]: Miloš Jovanović, *Constructing the National Capital*, master
     diss., CEU, Budapest, 2008.
@@ -3032,7 +3033,7 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 [^21]: Ana Vilenica, ‘Soho u Beogradu: Umetnička elita u službi tajkuna
     \[Soho in Belgrade: The Art Elite in the Service of Tycoons\], in
     *Maribor 2012*, 14 September 2011,
-    http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617.
+    <a href="http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617">http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617</a>.
 
 [^22]: Vilenica, ‘Soho u Beogradu’.
 
@@ -3040,10 +3041,10 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
 
 [^24]: ‘Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure
     Initiated for the Port of Belgrade\], *Vreme*, 6 August 2013,
-    http://www.vreme.rs/cms/view.php?id=1130342.
+    <a href="http://www.vreme.rs/cms/view.php?id=1130342">http://www.vreme.rs/cms/view.php?id=1130342</a>.
 
 [^25]: Mikser \[Mixer\], 4 August 2013,
-    http://blog.mikser.rs/o-mikseru.
+    <a href="http://blog.mikser.rs/o-mikseru">http://blog.mikser.rs/o-mikseru</a>.
 
 [^26]: Marshall Berman, *All That Is Solid Melts into Air: The
     Experience of Modernity*, Ringwood: Viking Penguin. 1988; David
@@ -3051,10 +3052,10 @@ http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav\_id=788601 (ht
     UK: Blackwell, 1992.
 
 [^27]: Urban Incubator Belgrade,
-    http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm.
+    <a href="http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm">http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm</a>.
 
 [^28]: C5, School of Urban Practices,
-    http://projectc5.blogspot.it/ (http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop).
+    http://projectc5.blogspot.it/ (<a href="http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop">http://www.academia.edu/771895/On_participatory_art_Interview_with_Claire_Bishop</a>).
 
 [^29]: George Yudice, *The Expediency of Culture: Uses of Culture in the
     Global Era*, Durham and London: Duke University Press, 2003.
@@ -3471,7 +3472,7 @@ urbanscape moved by these machines.
 
 Anonymous. 1989. *The Occupation of art and gentrification*. Internet
 source:
-http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7,
+<a href="http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7">http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7</a>,
 reviewed October 1, 2013.
 
 Bloch, Ernst. ‘Building in Empty Spaces,’ in Bloch, Ernst: *The Utopian
@@ -3492,7 +3493,7 @@ Age of Empire*. New York: Penguin Press, 2004.
 
 Harvey, David. ‘The Art of Rent: Globalisation, Monopoly and the
 Commodification of Culture’ (2001).
-http://www.generation-online.org/c/fc\_rent1.htm
+<a href="http://www.generation-online.org/c/fc\_rent1.htm">http://www.generation-online.org/c/fc\_rent1.htm</a>
 
 Harvey, David. *A Brief History of Neoliberalism*. Oxford: Oxford
 University Press, 2005.
@@ -3503,30 +3504,31 @@ Harvey, David. ‘The Right to the City.’ *New Left Review*, 53 Sept. Oct
 Institute for Civilisation and Culture. *SWOT Analysis for the Purposes
 of the Revitalisation of the Former Rog Factory with the Establishment
 of the Rog — Centre of Contemporary Arts*. (2011) Internet source:
-http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf
+<a href="http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf">http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf</a>
 
 Jelesijević, Nenad. Rog med razlastitvijo in prilastitvijo skupnega.
 Radio Študent (5 April 2012). Internet source:
-http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega
+<a href="http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega">http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega</a>
 
 Krajčinović, Nina. Rog kot politični projekt brez zagotovljenih
 sredstev. *Delo* (5 September 2013)
-http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html
+<a href="http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html">http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html</a>
 
 Katrin Fischer et al. *Revitalisation through arts and culture: new
 developments for 5 European industrial complexes.* Nürnberg: Second
 Chance (2012)
-http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf&gt;,
+<a href="http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf">http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf</a>,
 reviewed 1 October, 2013.
 
 Kurnik, Andrej and Barbara Beznec. ‘Resident Alien: The Rog Experience
 on the Margin,’ in Radical Education Collective (eds) *New public
 spaces: dissensual political and artistic practices in the post-Yugoslav
 context*. Maastricht: Jan van Eyck Academie, 2009, pp. 45-62.
-http://radical.temp.si/reader/AndrejBarbara.pdf
+<a href="http://radical.temp.si/reader/AndrejBarbara.pdf">http://radical.temp.si/reader/AndrejBarbara.pdf</a>
 
 Kurnik, Andrej. *Vzamimo si mesto!* (2013),
-http://www.njetwork.org/Vzamimo-si-mesto
+<a href="http://www.njetwork.org/Vzamimo-si-mesto">http://www.njetwork.org/Vzamimo-si-mesto
+</a>
 
 Landry, Charles. *The Creative City: A Toolkit for Urban Innovators*.
 London: Earthscan, 2000.
@@ -3538,52 +3540,53 @@ Brussels: Institut Supérieur d’Architecture Saint-Luc.
 
 MOL. 2013. *Dopolnjeni osnutek Odloka o spremembah in dopolnitvah Odloka
 o občinskem podrobnem prostorskem načrtu za del območja urejanja CI 5/6
-Rog*, http://www.ljubljana.si/file/1351552/dop\_osn\_spr\_oppn\_ci56.pdf
+Rog*, <a href="http://www.ljubljana.si/file/1351552/dop\_osn\_spr\_oppn\_ci56.pdf">http://www.ljubljana.si/file/1351552/dop\_osn\_spr\_oppn\_ci56.pdf</a>
 
 Pasquinelli, Matteo. ‘Beyond the Ruins of the Creative City: Berlin’s
 Factory of Culture and the Sabotage of Rent’, in KUNSTrePUBLIK (eds),
 *Skulpturenpark Berlin\_Zentrum*. Berlin: Verlag der Buchhandlung
 Walther König, 2010.
 
-Pungerčar, Marija Mojca. ND, http://www.3via.org/index.php?htm=mojca
+Pungerčar, Marija Mojca. ND, <a href="http://www.3via.org/index.php?htm=mojca">http://www.3via.org/index.php?htm=mojca</a>
 
-Rog Centre Pilot Project. *About*, (2013) http://www.roglab.si/en/about
+Rog Centre Pilot Project. *About*, (2013) <a href="http://www.roglab.si/en/about">http://www.roglab.si/en/about</a>
 
 Rog Centre Pilot Project. *Socialdress – Power to the People* (2013),
-http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people
+<a href="http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people">http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people</a>
 
 Sassen, Saskia. ‘Locating cities on global circuits.’ *Environment &
 Urbanization* 14 (2002): 13-30.
-http://www.rrojasdatabank.info/urban/euv14n1p13.pdf
+<a href="http://www.rrojasdatabank.info/urban/euv14n1p13.pdf">http://www.rrojasdatabank.info/urban/euv14n1p13.pdf</a>
 
 Second Chance. *Project Description* (2013). Internet source:
-http://www.secondchanceproject.eu/wp/?page\_id=26
+<a href="http://www.secondchanceproject.eu/wp/?page\_id=26">http://www.secondchanceproject.eu/wp/?page\_id=26</a>.
 
 Second Chance. The Former Rog Factory (2013) Internet source:
-http://www.secondchanceproject.eu/wp/?page\_id=16
+<a href="http://www.secondchanceproject.eu/wp/?page\_id=16">http://www.secondchanceproject.eu/wp/?page\_id=16</a>
 
 Second Chance. Rog Centre of Contemporary Arts (2013). Internet source:
-http://www.secondchanceproject.eu/wp/?page\_id=94
+<a href="http://www.secondchanceproject.eu/wp/?page\_id=94">http://www.secondchanceproject.eu/wp/?page\_id=94</a>
 
 Second Chance. Can Culture Alone Regenerate Places? (2012),
-http://www.secondchanceproject.eu/wp/?p=1112
+<a href="http://www.secondchanceproject.eu/wp/?p=1112">http://www.secondchanceproject.eu/wp/?p=1112</a>
 
 TEMP. ‘TEMP about TEMP, or a quick and unsystematic retrospective of the
 workings of one temporary and informal multidisciplinary group.’ In:
 Radical Education Collective (eds.): *New public spaces: dissensual
 political and artistic practices in the post-Yugoslav context*.
 Maastricht: Jan van Eyck Academie (2009): 144-158,
-http://radical.temp.si/reader/TEMP.pdf
+<a href="http://radical.temp.si/reader/TEMP.pdf">http://radical.temp.si/reader/TEMP.pdf</a>
 
 The Institute for the Protection of Cultural Heritage of Slovenia
 *STROKOVNE ZASNOVE VARSTVA KULTURNE DEDIŠČINE za območje MESTNE OBČINE
 LJUBLJANA* (2008),
-http://giskd2s.situla.org/evrdd/SZ/eVRD\_SZ\_Ljubljana\_2008\_02\_00.pdf
+<a href="http://giskd2s.situla.org/evrdd/SZ/eVRD\_SZ\_Ljubljana\_2008\_02\_00.pdf">http://giskd2s.situla.org/evrdd/SZ/eVRD\_SZ\_Ljubljana\_2008\_02\_00.pdf</a>
 
 Vercellone, Carlo. *The New Articulation of Wages, Rent and Profit in
 Cognitive Capitalism* (2008).,
-http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
-articulation\_of\_wagesHall1.pdf
+<a href="http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
+articulation\_of\_wagesHall1.pdf">http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
+articulation\_of\_wagesHall1.pdf</a>
 
 Zukin, Sharon. *Loft Living: Culture and Capital in Urban Change*,
 Baltimore and London: The Johns Hopkins University Press, 1982.
@@ -3608,7 +3611,8 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^5]: Saskia Sassen, ‘Locating cities on global circuits,’ *Environment
     & Urbanization* 14 (2002): 22.
-    http://www.rrojasdatabank.info/urban/euv14n1p13.pdf
+<a href="http://www.rrojasdatabank.info/urban/euv14n1p13.pdf">http://www.rrojasdatabank.info/urban/euv14n1p13.pdf
+</a>
 
 [^6]: Richard Florida, *Cities and the Creative Class*, London, New
     York: Routledge, 2005, p. 22.
@@ -3616,7 +3620,7 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 [^7]: For a more detailed history of Rog from the second part of the
     19<sup>th</sup> century onwards see Mihelič et al. (1995) or the historical
     digest available on Tovarna Rog website
-    (http://tovarna.org/node/131); for a sociopolitical analysis see
+    (<a href="http://tovarna.org/node/131">http://tovarna.org/node/131</a>); for a sociopolitical analysis see
     Kurnik and Beznec (2009); Kurnik (2013).
 
 [^8]: Cf. TEMP. ‘TEMP about TEMP, or a quick and unsystematic
@@ -3625,7 +3629,7 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
     *New public spaces: dissensual political and artistic practices in
     the post-Yugoslav context*, Maastricht: Jan van Eyck Academie
     (2009): 144-158. Internet source:
-    http://radical.temp.si/reader/TEMP.pdf
+    <a href="http://radical.temp.si/reader/TEMP.pdf">http://radical.temp.si/reader/TEMP.pdf</a>
 
 [^9]: To name some*: Invisible Workers of the World, World for Everyone,
     Civil Initiative of the Erased Activists, Front of the Precarious,
@@ -3637,18 +3641,19 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
     administration.
 
 [^11]: Second Chance, *Project Description* (2013), pp. 4,
-    http://www.secondchanceproject.eu/wp/?page\_id=26
+    <a href="http://www.secondchanceproject.eu/wp/?page\_id=26">    http://www.secondchanceproject.eu/wp/?page\_id=26
+</a>
 
 [^12]: Institute for Civilisation and Culture. *SWOT Analysis for the
     Purposes of the Revitalisation of the Former Rog Factory with the
     Establishment of the Rog – Centre of Contemporary Arts* (2011).
     Internet source:
-    http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf
+    <a href="http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf">http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf</a>
 
 [^13]: See the homonymous brochure, Katrin Fischer et al.
     *Revitalisation through arts and culture: new developments for 5
     European industrial complexes.* Nürnberg: Second Chance (2012)
-    http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf,
+    <a href="http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf">http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf</a>,
     reviewed 1 October, 2013.
 
 [^14]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
@@ -3658,7 +3663,7 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^15]: David Harvey, ‘The Art of Rent: Globalisation, Monopoly and the
     Commodification of Culture’ (2001).
-    http://www.generation-online.org/c/fc\_rent1.htm
+<a href="http://www.generation-online.org/c/fc\_rent1.htm">    http://www.generation-online.org/c/fc\_rent1.htm</a>
 
 [^16]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
     Berlin’s Factory of Culture and the Sabotage of Rent,’ KUNSTrePUBLIK
@@ -3673,7 +3678,7 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^19]: Anonymous. *The Occupation of art and gentrification* (1989)
     pp.7.
-    http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7
+    <a href="http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7">http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7</a>
 
 [^20]: Sharon Zukin, *Loft Living: Culture and Capital in Urban Change*,
     Baltimore and London: The Johns Hopkins University Press, 1982.
@@ -3684,19 +3689,19 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^22]: David Harvey, ‘The Art of Rent: Globalisation, Monopoly and the
     Commodification of Culture’ (2001).
-    http://www.generation-online.org/c/fc\_rent1.htm
+    <a href="http://www.generation-online.org/c/fc\_rent1.htm">http://www.generation-online.org/c/fc\_rent1.htm</a>
 
 [^23]: Ibid.
 
 [^24]: Second Chance, *Project Description* (2013) Emphasis mine.
-    http://www.secondchanceproject.eu/wp/?page\_id=26.
+    <a href="http://www.secondchanceproject.eu/wp/?page\_id=26">http://www.secondchanceproject.eu/wp/?page\_id=26</a>.
 
 [^25]: Demšič in Krajčinović. Nina Krajčinović, ‘Rog kot politični
     projekt brez zagotovljenih sredstev’, *Delo* 5^th^ September 2013,
-    http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html
+    <a href="http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html">http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html</a>
 
 [^26]: Second Chance, *Project Description* (2013).
-    http://www.secondchanceproject.eu/wp/?page\_id=26.
+    <a href="http://www.secondchanceproject.eu/wp/?page\_id=26">http://www.secondchanceproject.eu/wp/?page\_id=26</a>.
 
 [^27]: A topic deserving its own Foucauldian analysis is not just the
     inflation of euphemisms for gentrification but also the medical,
@@ -3714,7 +3719,7 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^29]: Nenad Jelesijević, Rog med razlastitvijo in prilastitvijo
     skupnega. Radio Študent (5 April 2012).
-    http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega
+    <a href="http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega">http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega</a>
 
 [^30]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
     Berlin’s Factory of Culture and the Sabotage of Rent,’ KUNSTrePUBLIK
@@ -3726,20 +3731,20 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
     amount of money for each organized event.
 
 [^32]: Second Chance, *Project Description* (2013). Emphasis mine.
-    http://www.secondchanceproject.eu/wp/?page\_id=26
+    <a href="http://www.secondchanceproject.eu/wp/?page\_id=26">http://www.secondchanceproject.eu/wp/?page\_id=26</a>
 
 [^33]: Michael Hardt and Antonio Negri, *Multitude: War and Democracy in
     the Age of Empire*, New York: Penguin Press, 2004, p. 200.
 
 [^34]: Rog Centre Pilot Project, *About* (2013)
-    http://www.roglab.si/en/about
+    <a href="http://www.roglab.si/en/about">http://www.roglab.si/en/about</a>
 
 [^35]: This separation is also an uncanny physical evidence of not
     accepting the present situation of the living self-organized
     communities in Rog.
 
 [^36]: Second Chance, Rog Centre of Contemporary Arts (2013),
-    http://www.secondchanceproject.eu/wp/?page\_id=94
+    <a href="http://www.secondchanceproject.eu/wp/?page\_id=94">http://www.secondchanceproject.eu/wp/?page\_id=94</a>
 
 [^37]: Ibid. Emphasis mine.
 
@@ -3748,8 +3753,9 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^39]: Carlo Vercellone, *The New Articulation of Wages, Rent and Profit
     in Cognitive Capitalism* (2008).
-    http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
-    articulation\_of\_wagesHall1.pdf
+    <a href="http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
+    articulation\_of\_wagesHall1.pdf">http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
+    articulation\_of\_wagesHall1.pdf</a>
 
 [^40]: Such intents were already detectable during the proposal to erect
     the Centre of Contemporary Arts.
@@ -3763,10 +3769,11 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
 [^42]: Rog Centre Pilot Project. *Socialdress – Power to the People*
     (2013),
-    http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people
+    <a href="http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people">http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people</a>
 
 [^43]: Marija Mojca Pungerčar, ND (2013),
-    http://www.3via.org/index.php?htm=mojca
+    <a href="http://www.3via.org/index.php?htm=mojca">    http://www.3via.org/index.php?htm=mojca
+</a>
 
 [^44]: MOL 2013.
 
@@ -4193,23 +4200,23 @@ power.
 ### References
 
 Adorno, Theodor. ‘Commitment’, *New Left Review* I (87088)
-(September-December, 1974), http://newleftreview.org/I/87-88/theodor-adorno-commitment.
+(September-December, 1974), <a href="http://newleftreview.org/I/87-88/theodor-adorno-commitment">http://newleftreview.org/I/87-88/theodor-adorno-commitment</a>.
 
 Emmelhainz, Irmgard. ‘Art and the Cultural Turn: Farewell to Committed
-Autonomous Art?’, *e-flux journal* 42 (February, 2013), http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art.
+Autonomous Art?’, *e-flux journal* 42 (February, 2013), <a href="http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art">http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art</a>.
 
 Espósito, Marcelo. ‘Lecciones de historia. El arte, entre la
 experimentación institucional y las políticas del movimiento’, 2009.
-SITAC lecture, http://marceloexposito.net/pdf/exposito_sitac.pdf.
+SITAC lecture, <a href="http://marceloexposito.net/pdf/exposito_sitac.pdf">http://marceloexposito.net/pdf/exposito_sitac.pdf</a>.
 
 Foster, Hal. ‘What’s Neo about the Neo-Avant-Garde?’, *October*, Vol. 70
 (Autumn, 1994): 5-32.
 
 Fraser, Andrea. ‘Le 1% c’est moi’, 2011,
-http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf.
+<a href="http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf">http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf</a>.
 
 Marchart, Oliver. ‘Art, Space and the Public Sphere(s)’, 2002,
-http://eipcp.net/transversal/0102/marchart/en.
+<a href="http://eipcp.net/transversal/0102/marchart/en">http://eipcp.net/transversal/0102/marchart/en</a>.
 
 McLagan, Megan and McKee, Yates (eds). *Sensible Politics:* *The Visual
 Culture of Nongovernmental Activism*. Cambridge, Mass.: Zone Books,
@@ -4217,11 +4224,11 @@ Culture of Nongovernmental Activism*. Cambridge, Mass.: Zone Books,
 
 Shaviro, Stephen. ‘Accelerationist Aesthetics’, *e-flux journal* \#46
 (Summer, 2013),
-http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption.
+<a href="http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption">http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption</a>.
 
 Sholette, Gregory. ‘Welcome to the Desert of the Real Artworld’, *Oxford
 Art Journal* 27 (2) (2004) pp. 260-261.
-http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf.
+<a href="http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf">http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf</a>.
 
 Stakemeier, Kerstin and Vishmidt, Marina. ‘The Value of Autonomy: A
 Conversation Between Kerstin Stakemeier and Marina Vishmidt About the
@@ -4229,11 +4236,11 @@ Reproduction of Art’, *Texte zur Kunst* 88 (December, 2012): 102-117.
 
 Thompson, Nato. 2013, ‘The Insurgents Part I: Community-Based Practice
 as Military Methodology,’ *e-flux journal* \# 47 (September, 2013),
-http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology.
+<a href="http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology">http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology</a>.
 
 Vishmidt, Marina. ‘Mimesis of the Hardened and Alienated: Social
 Practice as a Business Model’, *e-flux journal* \# 46 (March, 2013),
-http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model.
+<a href="http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model">http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model</a>.
 
 Wu, Chin-tao. ‘Embracing the Enterprise Culture: Art Institutions Since
 the 1980s’, *New Left Review* I 230 (July-August, 1998).
@@ -4258,7 +4265,7 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
 
 [^7]: Gregory Sholette, ‘Welcome to the Desert of the Real Artworld,’
     *Oxford Art Journal* 27.2, (2004), p. 259.
-    http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf.
+    <a href="http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf">http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf</a>.
 
 [^8]: Sholette, ‘Welcome to the Desert of the Real Artworld,’ pp.
     260-261.
@@ -4267,28 +4274,28 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
     Since the 1980s’, *New Left Review* I/230, (July-August 1998): 31.
 
 [^10]: See artist’s statement available at:
-    http://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm.
+    <a href="http://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm">http://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm</a>.
 
 [^11]: Oliver Marchart, ‘Art, Space and the Public Sphere(s)’, 2002,
-    http://eipcp.net/transversal/0102/marchart/en.
+    <a href="http://eipcp.net/transversal/0102/marchart/en">http://eipcp.net/transversal/0102/marchart/en</a>.
 
 [^12]: Sholette, ‘Welcome to the Desert of the Real Artworld’.
 
 [^13]: Nato Thompson, ‘The Insurgents Part I: Community-Based Practice
     as Military Methodology,’ *e-flux journal* \# 47, (September 2013),
-    http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology.
+    <a href="http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology">http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology</a>.
     In the second part of his essay, Thompson includes a disclaimer
     about him glossing over U.S. military violence in Iraq. See:
-    http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left.
+    <a href="http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left">http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left</a>.
 
 [^14]: Thompson, ‘The Insurgents Part I’.
 
 [^15]: See Irmgard Emmelhainz, ‘Art and the Cultural Turn: Farewell to
     Committed Autonomous Art?’, *e-flux journal* N. 42 (February 2013),
-    http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art.
+    <a href="http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art">http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art</a>.
 
 [^16]: Artist’s statement available online:
-    http://pedroreyes.net/palasporpistolas.php(http://newleftreview.org/I/87-88/theodor-adorno-commitment).
+    http://pedroreyes.net/palasporpistolas.php(<a href="http://newleftreview.org/I/87-88/theodor-adorno-commitment">http://newleftreview.org/I/87-88/theodor-adorno-commitment</a>).
 
 [^17]: See Megan McLagan and Yates McKee (eds), ‘Introduction’,
     *Sensible Politics: The Visual Culture of Nongovernmental Activism*,
@@ -4297,7 +4304,7 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
 [^18]: Marcelo Espósito, ‘Lecciones de historia. El arte, entre la
     experimentación institucional y las políticas del movimiento’, SITAC
     2009.
-    http://marceloexposito.net/pdf/exposito\_sitac.pdf (http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/).
+    http://marceloexposito.net/pdf/exposito\_sitac.pdf (<a href="http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art">http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art</a>).
 
 [^19]: Stephen Shaviro, ‘Accelerationist Aesthetics,’ *e-flux journal*
     \#46 (Summer 2013).
@@ -4310,11 +4317,11 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
     Claus Fund is based in Amsterdam and is supported by the Dutch
     Ministry of Foreign Affairs and the Dutch Postcode Lottery.” For
     more information, visit their website:
-    http://www.princeclausfund.org/en/the-fund.
+    <a href="http://www.princeclausfund.org/en/the-fund">http://www.princeclausfund.org/en/the-fund</a>.
 
 [^21]: Theodor Adorno, ‘Comittment’, *New Left Review* I/87088
     (September-December 1974),
-    http://newleftreview.org/I/87-88/theodor-adorno-commitment (http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf).
+    http://newleftreview.org/I/87-88/theodor-adorno-commitment (<a href="http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf">http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf</a>).
 
 [^22]: Adorno, ‘Comittment’.
 
@@ -4322,7 +4329,7 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
 
 [^24]: Marina Vishmidt, ‘Mimesis of the Hardened and Alienated: Social
     Practice as a Business Model,’ *e-flux journal* 43 (March, 2013),
-    http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model (http://eipcp.net/transversal/0102/marchart/en).
+    http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model (<a href="http://eipcp.net/transversal/0102/marchart/en">http://eipcp.net/transversal/0102/marchart/en</a>).
 
 [^25]: Vishmidt, ‘Mimesis of the Hardened and Alienated’.
 
@@ -4332,5 +4339,5 @@ the 1980s’, *New Left Review* I 230 (July-August, 1998).
     espèce, ou à la fin de l’ère des — notre époque n’est plus
     celle des guerriers, elle est celle des insectes, des animaux
     insignifiants, plus capables de s’adapter…’
-    http://whitney.org/file\_columns/0002/9848/andreafraser\_1\_2012whitneybiennial.pdf (http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption/).
+    http://whitney.org/file\_columns/0002/9848/andreafraser\_1\_2012whitneybiennial.pdf (<a href="http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption">http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption</a>).
 
