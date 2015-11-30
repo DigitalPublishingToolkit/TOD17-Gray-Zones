@@ -10,10 +10,10 @@ Article-title: The Gray Zones of Creativity and Capital
 Article-status: accepted  
 Author: Šefik Tatlić, Gordana Nikolić, Jonathan Beller, Josephine Berry Slater, Marc James Léger, Ana Vilenica, Sandi Abram, Irmgard Emmelheinz
 Author-email:    
-Author-bio: about the author     
+Author-bio:    
 Editor: Šefik Tatlić, Gordana Nikolić
-Abstract: The Gray Zones of Creativity and Capital (Eds. Gordana Nikolić and Šefik Tatlić) consists of works from a diverse range of authors from around the globe. The collection brings together six essays that offer a critique of the relationship between the creative industries and capital.
-What is the correlation between the creative industries, creative industry policies as a global phenomenon and their connection with the new media paradigm? How can the phenomenon be critiqued in the context of the actual, neoliberal, flexible regime of reproduction of capital? This publication treats ‘the networked world’ — its democracies, cognitivities, attention and culture — as a domain wherein forms of the reproduction of capitalism are reorganized and ‘modernized’.
+Abstract: What is the correlation among the creative industries, creative industry policies, new media paradigms and capitalism as colonial relations of dominance? What is the role of these industries in the prioritization of the interests of capital at the expense of those of society and how can these paradigms be criticized in the context of the actual, neoliberal, flexible regime of reproduction of capital? To what measure is this regime ‘flexible’ and to what measure it is just an extension of rigid, feudal and racial logics that underline (post)modern representational discourses? To what measure do the concepts of creativity, transparency, openness and flexibility conceal the hegemonic nature of modern hierarchies of exploitation?This publication brings together six essays that offer a critique of the relationship between the creative industries and capital. It treats ‘the networked world’ — its democracies, cognitivities, its attention and its paradigmatic cultural discourses — as one of the domains wherein and by which capitalism and its colonial relations of dominance are being reproduced, reorganized, perpetuated and ‘modernized’.The Gray Zones of Creativity and Capital (eds. Gordana Nikolić and
+Šefik Tatlić) consists of works from a diverse range of authors from around the globe: Jonathan Beller, Josephine Berry Slater, Marc James Léger, Ana Vilenica, Sandi Abram & Irmgard Emmelheinz. The book first appeared in Serbian in 2015.
 Keywords: creativity, capital, industry, capitalism, globalisation, new media, neoliberal, politics, network, democracy, culture, modernity, hierarchy, exploitation, society, economy, imperalism, colonialism, empire, power, system, gentrification, post-modernism 
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
@@ -43,7 +43,7 @@ Theory on Demand #17
 
 
 **Editors:** Šefik Tatlić, Gordana Nikolić<br/>
-**Copy-editing:**  Josip Batinić, Inte Gloerich, Léna Robin<br/>
+**Copy-editing:**  Josip Batinić, Inte Gloerich, Léna Robin, Nina Živančević<br/>
 **Editorial support:** Miriam Rasch<br/>
 **Translation:** Novica Petrović (for ‘The Art of New Class Geography of the City’)<br></br>
 **Design:** Josip Batinić, Léna Robin<br/>
