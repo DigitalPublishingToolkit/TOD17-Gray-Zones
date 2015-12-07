@@ -1,0 +1,91 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : GZ_Bookcover_Lulu.indd
+
+DATE D'ASSEMBLAGE : 7/12/15 12:23
+Date de création : 1/12/15
+Date de modification : 2/12/15
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page1
+
+POLICES
+6 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : HKGrotesk-Bold; Type : OpenType Type 1, Etat : OK
+- Nom : HKGrotesk-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : HelveticaNeue; Type : TrueType, Etat : OK
+- Nom : HelveticaNeue-Bold; Type : TrueType, Etat : OK
+- Nom : HelveticaNeue-Light; Type : TrueType, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Magenta quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Noir quadri; Angle : 0,000; Lignes/pouce : 0,000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 8 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Images : 0 Incorporé(e)(s), 0 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : N/A, (HP Photosmart C4100 series)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : RVB composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 323,4 mm x 240,212 mm
+Dimensions du papier : 210,005 mm x 297 mm
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. GZ_Bookcover_Lulu.indd; type : Composition Adobe InDesign; taille : 3448K
+2. HKGrotesk-Bold.otf; type : Fichier de polices; taille : 55K
+3. HKGrotesk-Regular.otf; type : Fichier de polices; taille : 51K
+4. HelveticaNeue.dfont; type : Fichier de polices; taille : 6580K
+5. MinionPro-Regular.otf; type : Fichier de polices; taille : 225K
