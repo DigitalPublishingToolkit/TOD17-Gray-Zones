@@ -12,7 +12,9 @@ Author: Šefik Tatlić, Gordana Nikolić, Jonathan Beller, Josephine Berry Slate
 Author-email:    
 Author-bio:    
 Editor: Šefik Tatlić, Gordana Nikolić
-Abstract: What is the correlation among the creative industries, creative industry policies, new media paradigms and capitalism as colonial relations of dominance? What is the role of these industries in the prioritization of the interests of capital at the expense of those of society and how can these paradigms be criticized in the context of the actual, neoliberal, flexible regime of reproduction of capital? To what measure is this regime ‘flexible’ and to what measure it is just an extension of rigid, feudal and racial logics that underline (post)modern representational discourses? To what measure do the concepts of creativity, transparency, openness and flexibility conceal the hegemonic nature of modern hierarchies of exploitation?This publication brings together six essays that offer a critique of the relationship between the creative industries and capital. It treats ‘the networked world’ — its democracies, cognitivities, its attention and its paradigmatic cultural discourses — as one of the domains wherein and by which capitalism and its colonial relations of dominance are being reproduced, reorganized, perpetuated and ‘modernized’.The Gray Zones of Creativity and Capital (eds. Gordana Nikolić and
+Abstract: What is the correlation among the creative industries, creative industry policies, new media paradigms and capitalism as colonial relations of dominance? What is the role of these industries in the prioritization of the interests of capital at the expense of those of society and how can these paradigms be criticized in the context of the actual, neoliberal, flexible regime of reproduction of capital? To what measure is this regime ‘flexible’ and to what measure it is just an extension of rigid, feudal and racial logics that underline (post)modern representational discourses? To what measure do the concepts of creativity, transparency, openness and flexibility conceal the hegemonic nature of modern hierarchies of exploitation?
+This publication brings together six essays that offer a critique of the relationship between the creative industries and capital. It treats ‘the networked world’ — its democracies, cognitivities, its attention and its paradigmatic cultural discourses — as one of the domains wherein and by which capitalism and its colonial relations of dominance are being reproduced, reorganized, perpetuated and ‘modernized’.
+The Gray Zones of Creativity and Capital (eds. Gordana Nikolić and
 Šefik Tatlić) consists of works from a diverse range of authors from around the globe: Jonathan Beller, Josephine Berry Slater, Marc James Léger, Ana Vilenica, Sandi Abram & Irmgard Emmelheinz. The book first appeared in Serbian in 2015.
 Keywords: creativity, capital, industry, capitalism, globalisation, new media, neoliberal, politics, network, democracy, culture, modernity, hierarchy, exploitation, society, economy, imperalism, colonialism, empire, power, system, gentrification, post-modernism 
   
@@ -86,4 +88,8 @@ in the Neoliberal Machine of Creative Industries</a><br/>
 
 <a href="ch009.xhtml">Neoliberalism and the Autonomy of Art:
 The Culture of Power, the Power of Culture	</a><br/>
+
+<a href="ch010.xhtml">Biographies</a><br/>
+
+
 

@@ -31,7 +31,7 @@
 body{
     font-size: 10pt;
     font-family: 'OpenSans-Light';
-    hyphens: none
+    hyphens: none;
     -webkit-hyphens:none;
 }
 
@@ -39,7 +39,7 @@ body{
 p {
     font-size:0.9em;
     line-height: 1.4em;
-    -webkit-hyphens: auto;
+   /* -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
     hyphenate-after: 3;
@@ -50,6 +50,7 @@ p {
     -webkit-hyphenate-lines: 2;
     orphans: 2;
     widows: 2;
+    text-align: left;
 }
 
 
@@ -72,7 +73,7 @@ h1,h2,h3,h4{
 h1{
     font-size:1.8em;
     line-height: 1.1em;
-    color: #932C65;
+    color: #696969;
     page-break-before: always;
 }
 
@@ -99,8 +100,8 @@ figcaption{
 }
 
 p {
-    text-align: justify;
-    text-justify: inter-word;
+  /*  text-align: justify;
+    text-justify: inter-word; */
 }
 
 ul, ol, dl {
@@ -127,7 +128,7 @@ div#cover-image img, img#title, img#end{
 
 
 img{
-    max-width:900px;
+    max-width:90%;
 }
 
 
@@ -141,21 +142,21 @@ font-size: 0.45em;
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #932C65 solid;
+    border-left: 1px #696969 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
 a { 
-    color: #932C65;
-    -webkit-text-fill-color: #932C65;
+    color: #696969;
+    -webkit-text-fill-color: #696969;
     text-decoration: none;
 }
 
 a:hover {
-    color: #932C65;
+    color: #696969;
     text-decoration: underline;
-    -webkit-text-fill-color: #932C65;
+    -webkit-text-fill-color: #696969;
 }
 
 div.streams{
@@ -167,7 +168,7 @@ div.streams{
     text-align: center;
     font-weight: bold;
     font-size: 1.15em;
-    color: #932C65;
+    color: #696969;
     -webkit-hyphens:none;
     hyphens: none;
     page-break-inside: avoid;
@@ -179,9 +180,9 @@ div.streams{
 
 hr {
     height: 0;
-    color: #932C65;
+    color: #696969;
     width: 100%;
-    border: dotted 2px;
+    border: dotted 1px;
     border-bottom: none;
     font-size: 3em;
     border-left: none;
@@ -202,7 +203,7 @@ ul {
 
 section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
     font-size:1.8em;
-    color: #932C65;
+    color: #696969;
 }
 
 /* Images with pink backgorund at the start of chapters:
@@ -218,12 +219,12 @@ section.level2#empty{
 }
 
 section.figure{
-    background: #932C65;
+    background: #696969;
     padding: 10px;
 }
 
 body.references{
-    background: #932C65;
+    background: #696969;
 }
 
 /*  */
@@ -231,7 +232,7 @@ body.end, section.end{
     text-align: center;
     font-size:1.8em;
     color: #000;
-    background: #932C65;
+    background: #696969;
 }
 
 figcaption {
@@ -249,7 +250,7 @@ section.footnotes li a {
 }
 
 table {
-    border: 1px #932C65 solid;
+    border: 1px #696969 solid;
     border-collapse: collapse;
     width:99%;
     vertical-align: top;
@@ -258,19 +259,19 @@ table {
 }
 
 table th {
-    border-bottom: 1px #932C65 solid;
+    border-bottom: 1px #696969 solid;
 }
 
 table th, td {
-    border-left: 1px #932C65 solid;
-    border-right: 1px #932C65 solid;
+    border-left: 1px #696969 solid;
+    border-right: 1px #696969 solid;
 }
 
 th, td {
     padding: 0.5em;
 }
 table .header {
-    color: #932C65;
+    color: #696969;
     font-family: 'OpenSans-Semibold';
 }
 
